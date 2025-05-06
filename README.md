@@ -30,11 +30,3 @@ Projekt je zgrajen z uporabo naslednjih tehnologij:
 - **Bootstrap 5.4.0**
 - **Bootstrap Icons 1.3.0**
 
----
-
-## 🚀 Zagon projekta (lokalno)
-1. Kloniraj repozitorij ali prenesi projektne datoteke.
-2. Postavi projekt v `htdocs` (če uporabljaš XAMPP) ali drug ustrezen `www` direktorij.
-3. Zaženi projekt preko brskalnika: `http://localhost/semirskaSpletnaTrgovina/`.
-
----
