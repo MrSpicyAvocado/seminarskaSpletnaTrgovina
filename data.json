@@ -1,0 +1,2590 @@
+{
+    "articlesCategory":[
+        {
+            "articleCategoryID": 1,
+            "title": "Računalniki"
+        },
+        {
+            "articleCategoryID": 2,
+            "title": "Prenosniki"
+        },
+        {
+            "articleCategoryID": 3,
+            "title": "Procesorji"
+        },
+        {
+            "articleCategoryID": 4,
+            "title": "Sistemski pomnilnik (RAM)"
+        },
+        {
+            "articleCategoryID": 5,
+            "title": "Osnovne plošče"
+        },
+        {
+            "articleCategoryID": 6,
+            "title": "SSD pogoni"
+        },
+        {
+            "articleCategoryID": 7,
+            "title": "Trdi diski"
+        },
+        {
+            "articleCategoryID": 8,
+            "title": "Grafične kartice"
+        },
+        {
+            "articleCategoryID": 9,
+            "title": "Napajalniki"
+        },
+        {
+            "articleCategoryID": 10,
+            "title": "Ohišja"
+        },
+        {
+            "articleCategoryID": 11,
+            "title": "Ventilatorji"
+        },
+        {
+            "articleCategoryID": 12,
+            "title": "Hladilniki"
+        },
+        {
+            "articleCategoryID": 13,
+            "title": "Monitorji"
+        },
+        {
+            "articleCategoryID": 14,
+            "title": "Televizije"
+        },
+        {
+            "articleCategoryID": 15,
+            "title": "Zvočniki"
+        },
+        {
+            "articleCategoryID": 16,
+            "title": "Slušalke"
+        },
+        {
+            "articleCategoryID": 17,
+            "title": "Tipkovnice"
+        },
+        {
+            "articleCategoryID": 18,
+            "title": "Miške"
+        },
+        {
+            "articleCategoryID": 19,
+            "title": "Podloge za miške"
+        },
+        {
+            "articleCategoryID": 20,
+            "title": "Zunanji diski"
+        },
+        {
+            "articleCategoryID": 21,
+            "title": "USB ključki"
+        },
+        {
+            "articleCategoryID": 22,
+            "title": "Kabli in adapterji"
+        },
+        {
+            "articleCategoryID": 23,
+            "title": "Spletne kamere"
+        },
+        {
+            "articleCategoryID": 24,
+            "title": "Konzole"
+        },
+        {
+            "articleCategoryID": 25,
+            "title": "Video igre"
+        }
+    ],
+    "articles":[
+        {
+            "articleID": 1,
+            "articleCategoryID": 1,
+            "title": "ASUS ROG Strix GT15 G15CF-WB7637",
+            "description": "i7–12700F/32GB/SSD1TB/RTX3060Ti/DOS Namizni računalnik ROG Strix GT15 zagotavlja vrhunsko zmogljivost za igranje iger. Poganja ga zmogljiv 12-jedrni procesor Intel® Core™ i7–12700F, ki bo v kombinaciji z napredno grafično kartico NVIDIA GeForce RTX 3060 Ti poskrbel za brezhibno gaming izkušnjo. Bliskovito hiter SSD pogon s kapaciteto 1 TB in delovni pomnilnik kapacitete 32 GB pa bosta zagotovila brezhibno odzivnost in večopravilnost.",
+            "brand": "ASUS",
+            "price": "1559",
+            "technicalSpecifications":{
+                "Procesor": "Intel® Core™ i7–12700F (Turbo do 4,90 GHz), 12-jedrni, 20 niti",
+                "Sistemski pomnilnik (RAM)": "32 GB DDR4 (do največ 64 GB)",
+                "Shranjevanje": "SSD 1 TB (M.2 NVMe PCIe 4.0)",
+                "Grafična kartica": "NVIDIA GeForce RTX 3060 Ti, 8 GB DDR6",
+                "Operacijski sistem": "FreeDOS"
+            },
+            "img": "https://www.mimovrste.com/i/95960379/1000/1000"
+        },
+        {
+            "articleID": 2,
+            "articleCategoryID": 1,
+            "title": "Apple iMac 24 računalnik",
+            "description": "M1 8C CPU 7C GPU/8GB/SSD256GB/24Retina4,5K-SLO Vrhunski računalnik iMac združuje najelegantnejši dizajn do sedaj, vrhunski 59,6 cm velik 4,5K Retina zaslon z osupljivo ločljivostjo 4480 × 2520 in eden najzmogljivejših čipov do sedaj Apple M1. V kombinaciji z delovnim pomnilnikom kapacitete 8 GB in bliskovito hitrim SSD pogonom kapacitete 256 GB pa tako prinaša popolnoma novo raven zmogljivosti, produktivnosti in zaščite.",
+            "brand": "Apple",
+            "price": "1579",
+            "technicalSpecifications":{
+                "Procesor": "Apple M1 čip (8-jedrni CPU in 7-jedrni GPU) 16-jedrni Neural Engine",
+                "Sistemski pomnilnik (RAM)": "8 GB",
+                "Shranjevanje": "SSD 256 GB",
+                "Grafična kartica": "integrirana",
+                "Operacijski sistem": "macOS Big Sur"
+            },
+            "img": "https://www.mimovrste.com/i/58586813/1000/1000"
+        },
+        {
+            "articleID": 3,
+            "articleCategoryID": 1,
+            "title": "HP Pavilion TG01",
+            "description": "5 5600G/16GB/SSD512GB/RTX3060/W10 Namizni računalnik HP Pavilion TG01 zagotavlja vrhunsko zmogljivost in izkušnjo pri igranju iger. Poganja ga zmogljiv procesor AMD Ryzen™ 5 5600G, vrhunsko grafično izkušnjo pa zagotavlja samostojna grafična kartica Nvidia GeForce RTX 3060. Bliskovito hiter SSD pogon kapacitete 512 GB v kombinaciji z delovnim pomnilnikom s kapaciteto 16 GB poskrbita za brezhibno odzivnost in večpravilnost delovanja sistema. Nameščen je tudi Windows 10.",
+            "brand": "HP",
+            "price": "999",
+            "technicalSpecifications":{
+                "Procesor": "AMD Ryzen™ 5 5600G (3,9 GHz, Boost do 4,4 GHz), 8-jedrni, 12 niti, L3 16 MB predpomnilnik",
+                "Sistemski pomnilnik (RAM)": "16 GB DDR4",
+                "Shranjevanje": "512GB M.2 PCIe SSD disk",
+                "Grafična kartica": "NVIDIA® GeForce® RTX 3060 12GB GDDR6",
+                "Operacijski sistem": "Windows 10"
+            },
+            "img": "https://www.mimovrste.com/i/78978041/1000/1000"
+        },
+        {
+            "articleID": 4,
+            "articleCategoryID": 1,
+            "title": "ASUS ROG Strix GT15 G15CF-51240F0950",
+            "description": "i5–12400F/16GB/SSD512GB/RTX3060/W11H Namizni računalnik ROG Strix GT15 zagotavlja vrhunsko zmogljivost za igranje iger. Poganja ga zmogljiv 6-jedrni procesor Intel® Core™ i5–12400F, ki bo v kombinaciji z napredno grafično kartico NVIDIA GeForce RTX 3060 poskrbel za brezhibno gaming izkušnjo. Bliskovito hiter SSD pogon s kapaciteto 512 GB in delovni pomnilnik kapacitete 16 GB pa bosta zagotovila brezhibno odzivnost in večopravilnost. Nameščen je operacijski sistem Windows 11 Home",
+            "brand": "ASUS",
+            "price": "1349",
+            "technicalSpecifications":{
+                "Procesor": "Intel® Core™ i5–12400F (Turbo do 4,40 GHz), 6-jedrni, 12 niti",
+                "Sistemski pomnilnik (RAM)": "16 GB DDR4 (do največ 64 GB)",
+                "Shranjevanje": "SSD 512 GB (M.2 NVMe PCIe 4.0)",
+                "Grafična kartica": "NVIDIA GeForce RTX 3060, 12 GB DDR6",
+                "Operacijski sistem": "Windows 11 Home"
+            },
+            "img": "https://www.mimovrste.com/i/95960379/1000/1000"
+        },
+        {
+            "articleID": 5,
+            "articleCategoryID": 1,
+            "title": "ASUS ExpertCenter D5 SFF",
+            "description": "i5–11400/8GB/SSD256GB/IntelUHDGraphics630/W10Pro Računalnik se ponaša z grafiko Intel® UHD Graphics 630 in zmogljivim procesorjem Intel Core i5 –10400, ki bo zagotovil brezhibno zmogljivost. Delovni pomnilnik kapacitete 8 GB in bliskovito hiter SSD pogon s kapaciteto 256 GB pa bosta poskrbela za brezhibno odzivnost in večopravilnost. Nameščen je operacijski sistem Windows 10 Pro.",
+            "brand": "ASUS",
+            "price": "714",
+            "technicalSpecifications":{
+                "Procesor": "Intel Core i5 –10400 procesor 2,90 GHz (12M Cache, do 4,30 GHz, 6 jeder)",
+                "Sistemski pomnilnik (RAM)": "8 GB (1*8GB, 2× DDR4 U-DIMM slot)",
+                "Shranjevanje": "256 GB M.2 NVMe PCIe 3.0 SSD",
+                "Grafična kartica": "Integrirana Intel UHD Graphics 630",
+                "Operacijski sistem": "Windows 10 Pro"
+            },
+            "img": "https://www.mimovrste.com/i/80370170/1000/1000"
+        },
+        {
+            "articleID": 6,
+            "articleCategoryID": 1,
+            "title": "ASUS ROG Strix GT15 G15CF-WB5720W",
+            "description": "i5–12400F/16GB/SSD512GB+1TB/RTX3070/W11H Namizni računalnik ROG Strix GT15 zagotavlja vrhunsko zmogljivost za igranje iger. Poganja ga zmogljiv 6-jedrni procesor Intel® Core™ i5–12400F, ki bo v kombinaciji z napredno grafično kartico NVIDIA GeForce RTX 3070 poskrbel za brezhibno gaming izkušnjo. Bliskovito hiter SSD pogon s kapaciteto 512 GB in delovni pomnilnik kapacitete 16 GB pa bosta zagotovila brezhibno odzivnost in večopravilnost. Za dodatno shranjevanje datotek je vgrajen še trdi disk s kapaciteto 1 TB. Nameščen je operacijski sistem Windows 11 Home.",
+            "brand": "ASUS",
+            "price": "1725",
+            "technicalSpecifications":{
+                "Procesor": "Intel® Core™ i5–12400F (Turbo do 4,40 GHz), 6-jedrni, 12 niti",
+                "Sistemski pomnilnik (RAM)": "16 GB 3200 MHz DDR4 (2× 8 GB, 4× DDR4 U-DIMM, 2× prosto mesto; do 64 GB skupaj)",
+                "Shranjevanje": "SSD 512 GB (M.2 NVMe PCIe 4.0 Performance SSD) HDD 1 TB (SATA 7200 obr./min. 8,89 cm)",
+                "Grafična kartica": "NVIDIA GeForce RTX 3070, 8 GB DDR6 z LHR (3× DP, 2× HDMI)",
+                "Operacijski sistem": "Windows 11 Home"
+            },
+            "img": "https://www.mimovrste.com/i/94264985/1000/1000"
+        },
+        {
+            "articleID": 7,
+            "articleCategoryID": 1,
+            "title": "ASUS ExpertCenter D5 Tower",
+            "description": "i3–10105/8GB/SSD256GB/FreeDOS Namizni računalnik ExpertCenter D5 Tower je oblikovan za pisarniško delo in večopravilnost. Poganja ga 4-jedrni procesor Intel® Core™ i3–10105 z integrirano grafiko Intel® UHD Graphics 630. Delovni pomnilnik s kapaciteto 8 GB pa bo v kombinaciji z bliskovito hitrim SSD pogonom kapacitete 256 GB poskrbel za brezhibno odzivnost v vsakem trenutku.",
+            "brand": "ASUS",
+            "price": "502",
+            "technicalSpecifications":{
+                "Procesor": "Intel® Core™ i3–10105 (3,70 GHz, Turbo do 4,40 GHz), 4-jedrni, 8 niti",
+                "Sistemski pomnilnik (RAM)": "8 GB DDR4 U-DIMM (razširljiv do 64 GB)",
+                "Shranjevanje": "SSD 256 GB (M.2 NVMe™ PCIe® 3.0)",
+                "Grafična kartica": "integrirana Intel® UHD Graphics 630",
+                "Operacijski sistem": "FreeDOS"
+            },
+            "img": "https://www.mimovrste.com/i/87232792/1000/1000"
+        },
+        {
+            "articleID": 8,
+            "articleCategoryID": 1,
+            "title": "ASUS ExpertCenter D5 Mini Tower D500MD",
+            "description": "i7–12700/16GB/SSD512GB/W11P Namizni računalnik ASUS ExpertCenter D5 Mini Tower D500MD_CZ-7127000060 je oblikovan za pisarniško delo in večopravilnost. Poganja ga visoko zmogljiv 12-jedrni procesor Intel® Core™ i7–12700 z integrirano grafiko Intel® UHD Graphics 770. Delovni pomnilnik s kapaciteto 16 GB pa bo v kombinaciji z bliskovito hitrim SSD pogonom kapacitete 512 GB poskrbel za brezhibno odzivnost v vsakem trenutku. Nameščen je operacijski sistem Windows 11 Pro.",
+            "brand": "ASUS",
+            "price": "1214",
+            "technicalSpecifications":{
+                "Procesor": "Intel® Core™ i7–12700 (2,1 GHz, Turbo do 4,9 GHz), 12-jedrni, 20 niti",
+                "Sistemski pomnilnik (RAM)": "16 GB DDR4 (dve reži zasedeni, podpora do skupno 64 GB)",
+                "Shranjevanje": "SSD 512 GB (M.2 NVMe PCIe 3.0)",
+                "Grafična kartica": "integrirana Intel® UHD Graphics 770",
+                "Operacijski sistem": "Windows 11 Pro"
+            },
+            "img": "https://www.mimovrste.com/i/95934316/1000/1000"
+        },
+        {
+            "articleID": 9,
+            "articleCategoryID": 1,
+            "title": "ASUS E5402WHAK-BA338M",
+            "description": "Računalnik vse v enem Asus E5402WHAK-BA338M AIO zagotavlja zanesljivo zmogljivost za pisarniško uporabo in večopravilnost. Opremljen je s 60,5 cm velikim zaslonom, ki ga odlikuje visoka ločljivost Full HD (1920 × 1080). Poganja ga procesor Intel® Core™ i3–11100B z integrirano grafiko Intel® UHD Graphics. Delovni pomnilnik s kapaciteto 8 GB pa bo v kombinaciji z bliskovito hitrim SSD pogonom kapacitete 256 GB poskrbel za brezhibno odzivnost in večopravilnost. Nameščen je operacijski sistem Windows 10 Pro. Priloženi brezžična tipkovnica in miška.",
+            "brand": "ASUS",
+            "price": "624",
+            "technicalSpecifications":{
+                "Procesor": "Intel® Core™ i3–11100B, 3.6 GHz (do 4.4 GHz, predpomnilnik L3 12 MB)",
+                "Sistemski pomnilnik (RAM)": "1× 8 GB DDR4",
+                "Shranjevanje": "256 GB M.2 NVMe™ PCIe® 3.0 SSD",
+                "Grafična kartica": "Integrirana, Intel® UHD Graphics for 11th Gen Intel® Processors",
+                "Operacijski sistem": "Windows 10 Pro"
+            },
+            "img": "https://www.mimovrste.com/i/95578237/1000/1000"
+        },
+        {
+            "articleID": 10,
+            "articleCategoryID": 1,
+            "title": "Lenovo IdeaCentre Gaming 5",
+            "description": "Namizni računalnik IdeaCentre Gaming 5 predstavlja vrhunsko izbiro za brezhiben vstop v svet računalniških iger. Poganja ga visoko zmogljiv procesor AMD Ryzen™ 5 5600G, za visoko grafično zmogljivost pa bo poskrbela napredna grafična kartica Nvidia GeForce RTX 3060. Delovni pomnilnik s kapaciteto 16 GB pa bo v kombinaciji z bliskovito hitrim SSD pogonom kapacitete 512 GB poskrbel za brezhibno odzivnost in večopravilnost. Za dodatno shranjevanje pa je vgrajen še trdi disk s kapaciteto 2 TB.",
+            "brand": "Lenovo",
+            "price": "1154",
+            "technicalSpecifications":{
+                "Procesor": "AMD Ryzen™ 5 5600G (3,9 GHz, Boost do 4,4 GHz), 6-jedrni, 12 niti",
+                "Sistemski pomnilnik (RAM)": "1× 16 GB UDIMM DDR4–3200",
+                "Shranjevanje": "SSD 512 GB (M.2 2280 PCIe NVMe) + HDD 2 TB (7200 obr./min.)",
+                "Grafična kartica": "Nvidia GeForce RTX 3060, 12 GB GDDR6",
+                "Operacijski sistem": "FreeDOS"
+            },
+            "img": "https://www.mimovrste.com/i/80242377/1000/1000"
+        },
+        {
+            "articleID": 11,
+            "articleCategoryID": 2,
+            "title": "Razer Blade 14",
+            "description": "Ryzen 9 6900HX/16GB/SSD1TB/RTX3070Ti/14QHD/W11H Blade 14 prinaša osupljivo gaming zmogljivost v tankem in lahkem aluminijastem ohišju. Opremljen je s 35,5 cm velikim zaslonom s Quad HD (2560 × 1440) ločljivostjo, hitrostjo osveževanja 165 Hz in tehnologijo AMD FreeSync Premium. Z grafično kartico NVIDIA® GeForce RTX™ 3070 Ti in zmogljivim procesorjem AMD Ryzen™ 9 6900HX bo zagotovil neverjetno izkušnjo pri igranju iger. Delovni pomnilnik kapacitete 16 GB in SSD s kapaciteto 1 TB pa bosta poskrbela za bliskovito hitrost in brezhibno večopravilnost. Nameščen je operacijski sistem Windows 11 Home.",
+            "brand": "Razer",
+            "price": "2932",
+            "technicalSpecifications":{
+                "Procesor": "AMD Ryzen™ 9 6900HX (3,3 GHz, Boost do 4,9 GHz), 8-jedrni",
+                "Sistemski pomnilnik (RAM)": "16 GB dvokanalni DDR5 4800 MHz",
+                "Shranjevanje": "SSD 1 TB (PCIe Gen 4 NVMe)",
+                "Grafična kartica": "NVIDIA GeForce RTX 3070 Ti (8 GB GDDR6 VRAM)",
+                "Operacijski sistem": "Microsoft Windows 11 Home, 64-bit"
+            },
+            "img": "https://www.mimovrste.com/i/78634897/1000/1000"
+        },
+        {
+            "articleID": 12,
+            "articleCategoryID": 2,
+            "title": "ASUS TUF Gaming F15 FX506LHB-HN324",
+            "description": "i5–10300H/16GB/SSD512GB/GTX1650/15,6FHD/FreeDOS Prenosnik TUF Gaming F15 se ponaša z zaslonom v velikosti 39,6 cm z visoko ločljivostjo Full HD (1920×1080) in hitrostjo osveževanja kar 144 Hz. Poganja ga zmogljiv 4-jedrni procesor Intel® Core™ i5–10300H, grafična kartica NVIDIA® GeForce® GTX 1650 pa bo zagotovila izjemno gaming izkušnjo. Delovni pomnilnik kapacitete 16 GB in bliskovito hiter SSD pogon s kapaciteto 512 GB pa bosta poskrbela za brezhibno odzivnost in večopravilnost.",
+            "brand": "ASUS",
+            "price": "898",
+            "technicalSpecifications":{
+                "Procesor": "Intel® Core™ i5–10300H (2,5 GHz, Turbo do 4,5 GHz), 4-jedrni",
+                "Sistemski pomnilnik (RAM)": "16 GB (2× 8 GB DDR4 SO-DIMM, 2933 MHz)",
+                "Shranjevanje": "SSD 512 GB (M.2 NVMe™ PCIe® 3.0)",
+                "Grafična kartica": "NVIDIA® GeForce® GTX 1650, 4 GB GDDR6",
+                "Operacijski sistem": "FreeDOS"
+            },
+            "img": "https://www.mimovrste.com/i/85105240/1000/1000"
+        },
+        {
+            "articleID": 13,
+            "articleCategoryID": 2,
+            "title": "Razer Book 13 prenosnik, Mercury",
+            "description": "i7–1165G7/16GB/SSD512GB/13,3FHD/W11H Book 13 je izjemno lahek in tanek prenosnik, ki se ponaša z zaslonom velikosti 33,8 cm z visoko ločljivostjo Full HD (1920 X 1200) in občutljivostjo na dotik. Poganja ga zmogljiv procesor Intel® Core™ i7–1165G7 z integrirano grafiko Intel® Iris® Xe Graphics. Delovni pomnilnik kapacitete 16 GB in SSD s kapaciteto 512 GB pa bosta poskrbela za bliskovito hitrost in brezhibno večopravilnost. Nameščen je operacijski sistem Windows 11 Home.",
+            "brand": "Razer",
+            "price": "1414",
+            "technicalSpecifications":{
+                "Procesor": "Intel® Core™ i7–1165G7 (Turbo do 4,7 GHz), 4-jedrni",
+                "Sistemski pomnilnik (RAM)": "16 GB dvokanalni, fiksen",
+                "Shranjevanje": "SSD 512 GB (PCIe M.2)",
+                "Grafična kartica": "integrirana Intel® Iris® Xe Graphics",
+                "Operacijski sistem": "Microsoft Windows 11 Home"
+            },
+            "img": "https://www.mimovrste.com/i/75006065/1000/1000"
+        },
+        {
+            "articleID": 14,
+            "articleCategoryID": 2,
+            "title": "Acer Predator Helios 16 PH16-71-72Z3",
+            "description": "i7–13700HX/16GB/SSD512GB/RTX4070/16WQXGA/FreeDOS Gaming prenosnik Predator Helios 16 poganja zmogljiv procesor Intel® Core™ i7–13700HX, za izjemno grafično zmogljivost pa bo poskrbela samostojna grafična kartica NVIDIA GeForce RTX 4070. Opremljen je s 40,64 cm velikim zaslonom z ločljivostjo WQXGA (2560 × 1600) in z osveževalno hitrostjo kar 240 Hz. Delovni pomnilnik s kapaciteto 16 GB pa bo v kombinaciji z bliskovito hitrim SSD pogonom kapacitete 512 GB poskrbel za brezhibno odzivnost in večopravilnost.",
+            "brand": "Acer",
+            "price": "2435",
+            "technicalSpecifications":{
+                "Procesor": "Intel® Core™ i7–13700HX (Turbo do 5,0 GHz), 16-jedrni",
+                "Sistemski pomnilnik (RAM)": "16 GB DDR5 (1× 16 GB) 5600 MHz",
+                "Shranjevanje": "SSD 512 GB (M.2 NVMe PCIe)",
+                "Grafična kartica": "NVIDIA GeForce RTX 4070, 8 GB GDDR6",
+                "Operacijski sistem": "FreeDOS"
+            },
+            "img": "https://www.mimovrste.com/i/98460393/1000/1000"
+        },
+        {
+            "articleID": 15,
+            "articleCategoryID": 2,
+            "title": "Acer Aspire 5 A515-45-R554",
+            "description": "R3 5300U/8GB/SSD512GB/15,6FHD/DOS Prenosnik Acer Aspire 5 poganja zmogljiv procesor AMD Ryzen™ 3 5300U in integrirana grafika AMD Radeon™ Graphics. Ponaša se s Full HD (1920 × 1080) zaslonom velikosti 39,6 cm. Pomnilnik s kapaciteto 8 GB v kombinaciji s hitrim SSD pogonom kapacitete 512 GB poskrbi za brezhibno odzivnost in večopravilnost sistema.",
+            "brand": "Acer",
+            "price": "440",
+            "technicalSpecifications":{
+                "Procesor": "AMD Ryzen™ 3 5300U (2,6 GHz, Boost do 3,8 GHz), 4 MB L3 predpomnilnik, 4 jedra / 8 niti",
+                "Sistemski pomnilnik (RAM)": "8 GB DDR4",
+                "Shranjevanje": "SSD 512 GB PCIe NVMe",
+                "Grafična kartica": "integrirana AMD Radeon™ Graphics",
+                "Operacijski sistem": "FreeDOS"
+            },
+            "img": "https://www.mimovrste.com/i/86386921/1000/1000"
+        },
+        {
+            "articleID": 16,
+            "articleCategoryID": 2,
+            "title": "Apple MacBook Air 13 prenosnik, Silver",
+            "description": "M2 8-jedrni CPE in 8-jedrni GPE/8GB/SSD256GB/macOS Vrhunski prenosnik MacBook Air 13 poganja napreden 8-jedrni čip Apple M2 z zmogljivo 8-jedrno integrirano grafiko. Vsebuje 34,5 cm velik Liquid Retina IPS zaslon z osupljivo ločljivostjo 2560 × 1664. Delovni pomnilnik s kapaciteto 8 GB pa bo v kombinaciji z bliskovito hitrim SSD pogonom kapacitete 256 GB poskrbel za brezhibno odzivnost in večopravilnost. Nameščen je napreden in še izboljšan operacijski sistem macOS Monterey. Prenosnik vsebuje SL tipkovnico.",
+            "brand": "Apple",
+            "price": "1489",
+            "technicalSpecifications":{
+                "Procesor": "Apple M2 čip (8-jedrni CPE in 8-jedrni GPE) 16-jedrni Neural Engine",
+                "Sistemski pomnilnik (RAM)": "8 GB",
+                "Shranjevanje": "SSD 256 GB",
+                "Grafična kartica": "Apple M2 GPU",
+                "Operacijski sistem": "macOS"
+            },
+            "img": "https://www.mimovrste.com/i/86033566/1000/1000"
+        },
+        {
+            "articleID": 17,
+            "articleCategoryID": 2,
+            "title": "Apple MacBook 13 Air prenosnik, 256 GB, Gold",
+            "description": "M1/8GB/SSD256GB/macOS Vrhunski ultrabook prenosnik MacBook Air 13 poganja napreden 8-jedrni čip Apple M1 z zmogljivo integrirano grafiko. Vsebuje 33,7 cm velik Retina IPS zaslon z osupljivo ločljivostjo 2560 × 1600. Delovni pomnilnik s kapaciteto 8 GB pa bo v kombinaciji z bliskovito hitrim SSD pogonom kapacitete 256 GB poskrbel za brezhibno odzivnost in večopravilnost. Navdušila pa bo tudi izvrstna Magic Keyboard tipkovnica z osvetlitvijo. Nameščen je napreden in še izboljšan operacijski sistem macOS Big Sur.",
+            "brand": "Apple",
+            "price": "1155",
+            "technicalSpecifications":{
+                "Procesor": "Apple M1 čip (8-jedrni CPE in 7-jedrni GPE) 16-jedrni Neural Engine",
+                "Sistemski pomnilnik (RAM)": "8 GB",
+                "Shranjevanje": "SSD 256 GB",
+                "Grafična kartica": "Apple M1 GPU",
+                "Operacijski sistem": "macOS"
+            },
+            "img": "https://www.mimovrste.com/i/52992349/1000/1000"
+        },
+        {
+            "articleID": 18,
+            "articleCategoryID": 2,
+            "title": "HP Victus 15-fb0042nm",
+            "description": "R5 5600H/16GB/SSD512GB/RTX3050/15,6FHD/DOS Gaming prenosnik Victus 15-fb0042nm je odlična izbira za vse ljubitelje igranja iger, ki hkrati želijo mobilnost. Poganja ga visoko zmogljiv procesor AMD Ryzen™ 5 5600H, za visoko grafično zmogljivost pa bo poskrbela napredna grafična kartica NVIDIA GeForce RTX 3050. Ponaša se še z 39,6 cm velikim IPS zaslonom z visoko ločljivostjo Full HD (1920 × 1080) in hitrostjo osveževanja kar 144 Hz. Delovni pomnilnik s kapaciteto 16 GB pa bo v kombinaciji z bliskovito hitrim SSD pogonom kapacitete 512 GB poskrbel za brezhibno odzivnost in večopravilnost.",
+            "brand": "HP",
+            "price": "879",
+            "technicalSpecifications":{
+                "Procesor": "AMD Ryzen™ 5 5600H (3,3 GHz, Boost do 4,2 GHz), 6-jedrni, 12 niti, 16 MB predpomnilnik",
+                "Sistemski pomnilnik (RAM)": "16 GB DDR4–3200 MHz (2 × 8 GB)",
+                "Shranjevanje": "SSD 512 GB (PCIe® NVMe™ TLC M.2)",
+                "Grafična kartica": "NVIDIA GeForce RTX 3050, 4 GB GDDR6",
+                "Operacijski sistem": "FreeDOS"
+            },
+            "img": "https://www.mimovrste.com/i/95352136/1000/1000"
+        },
+        {
+            "articleID": 19,
+            "articleCategoryID": 2,
+            "title": "ASUS ROG Strix G15 G513RM-HQ017",
+            "description": "R9 6900HX/16GB/SSD1TB/RTX3060/15,6WQHD/FreeDOS ROG Strix G15 se ponaša z 39,6 cm velikim IPS zaslonom z izjemno ločljivostjo WQHD (2560 × 1440) in z osveževalno hitrostjo kar 165 Hz. Z napredno grafično kartico NVIDIA GeForce RTX 3060 in zmogljivim procesorjem AMD Ryzen™ 9 6900HX bo zagotovil izvrstno izkušnjo pri igranju iger. Delovni pomnilnik s kapaciteto 16 GB in bliskovito hiter SSD pogon kapacitete 1 TB pa bosta poskrbela za brezhibno odzivnost in večopravilnost.",
+            "brand": "ASUS",
+            "price": "1775",
+            "technicalSpecifications":{
+                "Procesor": "AMD Ryzen™ 9 6900HX (3,3 GHz, Boost do 4,9 GHz), 8-jedrni, 16 niti",
+                "Sistemski pomnilnik (RAM)": "16 GB DDR5–4800 (2 reži – zasedeni, podpora do največ 32 GB)",
+                "Shranjevanje": "SSD 1 TB (M.2 NVMe PCIe 4.0)",
+                "Grafična kartica": "NVIDIA GeForce RTX 3060, 6 GB GDDR6",
+                "Operacijski sistem": "FreeDOS"
+            },
+            "img": "https://www.mimovrste.com/i/96219231/1000/1000"
+        },
+        {
+            "articleID": 20,
+            "articleCategoryID": 2,
+            "title": "Lenovo IdeaPad 3 siv (82KU01Y0SC)",
+            "description": "Prenosnik IdeaPad 3 je opremljen s sodobnimi rešitvami za brezhibno ter varno delo. Poganja ga zmogljiv procesor AMD Ryzen™ 5 5500U z integrirano grafiko AMD Radeon™ Graphics. Vsebuje 39,6 cm velik nebleščeč zaslon z visoko ločljivostjo Full HD (1920 × 1080). Delovni pomnilnik s kapaciteto 8 GB pa bo v kombinaciji z bliskovito hitrim SSD pogonom kapacitete 512 GB poskrbel za odlično večopravilnost in odzivnost. Nameščen je operacijski sistem Windows 11 Home.",
+            "brand": "Lenovo",
+            "price": "550",
+            "technicalSpecifications":{
+                "Procesor": "AMD Ryzen™ 5 5500U (2,1 GHz, Boost do 4,0 GHz), 6-jedrni",
+                "Sistemski pomnilnik (RAM)": "8 GB (4 GB spojen DDR4–3200 + 4 GB SO-DIMM DDR4–3200)",
+                "Shranjevanje": "SSD 512 GB (M.2 2242 PCIe 3.0×4 NVMe)",
+                "Grafična kartica": "integrirana AMD Radeon™ Graphics",
+                "Operacijski sistem": "Windows 11 Home"
+            },
+            "img": "https://www.mimovrste.com/i/92362451/1000/1000"
+        },
+        {
+            "articleID": 21,
+            "articleCategoryID": 3,
+            "title": "AMD Ryzen 5 5600X",
+            "description": "AMD predstavlja zmogljive Ryzen procesorje s 7 nm tehnologijo izdelave in napredno mikroarhitekturo Zen 3, ki so oblikovani z namenom, da zagotovijo vrhunsko zmogljivost tako za delo kot tudi za zabavo. Procesor AMD Ryzen™ 5 5600X se ponaša s kar 6 jedri in 12 nitmi za neverjetno procesorsko moč. Odlikuje ga osnovna frekvenca delovanja 3,7 GHz z maksimalno Boost frekvenco do 4,6 GHz.",
+            "brand": "AMD",
+            "price": "193",
+            "technicalSpecifications":{
+                "Podnožje procesorja": "AM4",
+                "Arhitektura": "Zen 3",
+                "Št. jeder": "6",
+                "Št. niti":"12",
+                "Frekvenca": "3,7 GHz"
+            },
+            "img": "https://www.mimovrste.com/i/52632415/1000/1000"
+        },
+        {
+            "articleID": 22,
+            "articleCategoryID": 3,
+            "title": "AMD Ryzen 5 5500",
+            "description": "Procesorji serije AMD Ryzen 5000 poganjajo naslednjo generacijo zahtevnih iger, ki omogočajo edinstveno poglobljeno izkušnjo in lahko opravijo večino najzahtevnejših nalog, kot so upodabljanje 3D in video ter zbiranje programske opreme. Ko gre za samo računalniško moč, se ne zadovoljite z manj od tega, kar ponujajo namizni procesorji AMD Ryzen. Poleg tega z namiznimi procesorji AMD Ryzen 5000 serije G dobite odlično grafiko v namiznem procesorju. Procesorji AMD Ryzen 5000 serije z največ 16 jedri, 32 nitmi, povečanjem taktov do 4,9 GHz4 in do 72 MB predpomnilnika omogočajo vrhunske igralne zmogljivosti.",
+            "brand": "AMD",
+            "price": "108",
+            "technicalSpecifications":{
+                "Podnožje procesorja": "AM4",
+                "Arhitektura": "Zen 3",
+                "Št. jeder": "6",
+                "Št. niti":"12",
+                "Frekvenca": "3,6 Ghz"
+            },
+            "img": "https://www.mimovrste.com/i/83511400/1000/1000"
+        },
+        {
+            "articleID": 23,
+            "articleCategoryID": 3,
+            "title": "AMD Ryzen 9 7950X",
+            "description": "AMD predstavlja zmogljive Ryzen procesorje s 5 nm tehnologijo izdelave in napredno mikroarhitekturo Zen 4, ki so oblikovani z namenom, da zagotovijo brezhibno zmogljivost tako za delo kot tudi za zabavo. Procesor AMD Ryzen™ 9 7950X se ponaša s kar 16 jedri in 32 nitmi za neverjetno procesorsko moč. Odlikuje ga osnovna frekvenca delovanja 4,5 GHz ter Boost frekvenca delovanja do 5,7 GHz.",
+            "brand": "AMD",
+            "price": "715",
+            "technicalSpecifications":{
+                "Podnožje procesorja": "AM5",
+                "Arhitektura": "Zen 4",
+                "Št. jeder": "16",
+                "Št. niti":"32",
+                "Frekvenca": " 4,5 GHz"
+            },
+            "img": "https://www.mimovrste.com/i/90298408/1000/1000"
+        },
+        {
+            "articleID": 24,
+            "articleCategoryID": 3,
+            "title": "AMD Ryzen 7 5700G",
+            "description": "AMD predstavlja zmogljive Ryzen procesorje s 7 nm tehnologijo izdelave in napredno mikroarhitekturo Zen 3, ki so oblikovani z namenom, da zagotovijo vrhunsko zmogljivost tako za delo kot tudi za zabavo. Procesor AMD Ryzen™ 7 5700G se ponaša z integrirano grafiko Radeon™ Graphics, 8 jedri in 16 nitmi za neverjetno procesorsko moč. Odlikuje ga osnovni takt frekvence 3,8 GHz z maksimalnim Boost taktom do 4,6 GHz.",
+            "brand": "AMD",
+            "price": "216",
+            "technicalSpecifications":{
+                "Podnožje procesorja": "AM4",
+                "Arhitektura": "Zen 3",
+                "Št. jeder": "8",
+                "Št. niti":"16",
+                "Frekvenca": "3,8 GHz"
+            },
+            "img": "https://www.mimovrste.com/i/61013602/1000/1000"
+        },
+        {  
+            "articleID": 25,
+            "articleCategoryID": 3,
+            "title": "AMD Ryzen 5 3600",
+            "description": "MD predstavlja zmogljive Ryzen procesorje z 7 nm tehnologijo izdelave in napredno mikroarhitekturo Zen 2, ki so oblikovani z namenom, da zagotovijo brezhibno zmogljivost tako za delo kot tudi za zabavo. Procesor AMD Ryzen 5 3600 se ponaša s kar 6 jedri in 12 nitmi za neverjetno procesorsko moč. Odlikuje ga osnovna frekvenca delovanja 3,6 GHz ter Boost frekvenca delovanja do 4,2 GHz.",
+            "brand": "AMD",
+            "price": "98",
+            "technicalSpecifications":{
+                "Podnožje procesorja": "AM4",
+                "Arhitektura": "Zen 2",
+                "Št. jeder": "6",
+                "Št. niti":"12",
+                "Frekvenca": "3,6 GHz"
+            },
+            "img": "https://www.mimovrste.com/i/88844671/1000/1000"
+        },
+        {
+            "articleID": 26,
+            "articleCategoryID": 3,
+            "title": "Intel Core i5-11400F",
+            "description": "Intel Core i5–11400F procesor 11. generacije ima 6 jeder in je del serije procesorjev Rocket Lake. Deluje pri osnovni frekvenci 3,60 GHz, s Turbo tehnologijo pa se frekvenca lahko poveča do 4,40 GHz. Na voljo je 12 MB predpomnilnika.",
+            "brand": "Intel",
+            "price": "155",
+            "technicalSpecifications":{
+                "Podnožje procesorja": "LGA 1200",
+                "Arhitektura": "Rocket Lake",
+                "Št. jeder": "6",
+                "Št. niti":"12",
+                "Frekvenca": "2,60 GHz"
+            },
+            "img": "https://www.mimovrste.com/i/61111992/1000/1000"
+        },
+        {
+            "articleID": 27,
+            "articleCategoryID": 3,
+            "title": "Intel Core i5-13600KF",
+            "description": "Intel predstavlja 13. generacijo procesorjev Raptor Lake, ki so posebej oblikovani za poganjanje zahtevnih programov. Tako so odlična izbira za vse zmogljive gaming računalniške sisteme. Procesor Intel® Core™ i5–13600KF se ponaša s 14 jedri in 20 nitmi za izjemno procesorsko moč. Odlikuje ga frekvenca delovanja do 5,1 GHz Max Turbo. Vsebuje 24 MB Smart Cache predpomnilnika.",
+            "brand": "Intel",
+            "price": "345",
+            "technicalSpecifications":{
+                "Podnožje procesorja": "LGA 1700",
+                "Arhitektura": "Raptor Lake",
+                "Št. jeder": "14",
+                "Št. niti":"20",
+                "Frekvenca": "3,5 Ghz"
+            },
+            "img": "https://www.mimovrste.com/i/92611027/1000/1000"
+        },
+        {
+            "articleID": 28,
+            "articleCategoryID": 3,
+            "title": "Intel Core i5-13600K ",
+            "description": "Intel predstavlja 13. generacijo procesorjev Raptor Lake, ki so posebej oblikovani za poganjanje zahtevnih programov. Tako so odlična izbira za vse zmogljive gaming računalniške sisteme. Procesor Intel® Core™ i5–13600K se ponaša s 14 jedri in 20 nitmi za izjemno procesorsko moč. Odlikuje ga frekvenca delovanja do 5,1 GHz Max Turbo. Vsebuje 24 MB Smart Cache predpomnilnika. Ponaša se tudi z integrirano grafiko Intel® UHD Graphics 770.",
+            "brand": "Intel",
+            "price": "386",
+            "technicalSpecifications":{
+                "Podnožje procesorja": "LGA 1700",
+                "Arhitektura": "Raptor Lake",
+                "Št. jeder": "14",
+                "Št. niti":"20",
+                "Frekvenca": "3,5 Ghz"
+            },
+            "img": "https://www.mimovrste.com/i/92611222/1000/1000"
+        },
+        {
+            "articleID": 29,
+            "articleCategoryID": 3,
+            "title": "Intel Core i3-12100F",
+            "description": "Ustvarjanje, upodabljanje, prenašanje, igranje iger, večopravilnost ali pa preposta osnovna vsakdanja uporaba – Intel procesorji 12. generacije Alder Lake zagotavljajo brezhibno zmogljivost v vsakem trenutku. Procesor Intel® Core™ i3–12100F se ponaša s 4 jedri in skupno kar 8 nitmi. V načinu Max Turbo pa doseže takt frekvence tudi do 4,30 GHz.",
+            "brand": "Intel",
+            "price": "114",
+            "technicalSpecifications":{
+                "Podnožje procesorja": "LGA 1700",
+                "Arhitektura": "Alder Lake",
+                "Št. jeder": "4",
+                "Št. niti":"8",
+                "Frekvenca": "3,30 GHz"
+            },
+            "img": "https://www.mimovrste.com/i/77111160/1000/1000"
+        },
+        {
+            "articleID": 30,
+            "articleCategoryID": 3,
+            "title": "Intel Core i5-13400F",
+            "description": "Intel predstavlja 13. generacijo procesorjev Raptor Lake, ki so posebej oblikovani za poganjanje zahtevnih programov. Tako so odlična izbira za vse zmogljive gaming računalniške sisteme. Procesor Intel® Core™ i5–13400F se ponaša s 10 jedri in 16 nitmi za izjemno procesorsko moč. Odlikuje ga frekvenca delovanja do 4,6 GHz Max Turbo. Vsebuje 20 MB Smart Cache predpomnilnika. Vsebuje tudi procesorski hladilnik.",
+            "brand": "Intel",
+            "price": "248",
+            "technicalSpecifications":{
+                "Podnožje procesorja": "LGA 1700",
+                "Arhitektura": "Raptor Lake",
+                "Št. jeder": "10",
+                "Št. niti":"16",
+                "Frekvenca": "2,5 GHz"
+            },
+            "img": "https://www.mimovrste.com/i/95492274/1000/1000"
+        },
+        {
+            "articleID": 31,
+            "articleCategoryID": 4,
+            "title": "G.Skill Ripjaws V",
+            "description": "DDR4 RAM pomnilnik G.Skill Ripjaws V kapacitete 16 GB (2 × 8 GB). Primeren je za namizne računalnike in podpira Intel Extreme Memory Profiles (Intel XMP) 2.0. Pasivni hladilnik pa bo zagotovil visoko učinkovito odvajanje toplote za brezhibno zmogljivost.",
+            "brand": "G.Skill",
+            "price": "53",
+            "technicalSpecifications":{
+                "Tip pomnilnika": "DDR4",
+                "Vrsta modula": "DIMM",
+                "Kapaciteta": "16 GB (2× 8 GB)",
+                "Frekvenca": "3600 MHz",
+                "Zakasnitev": "CL18"
+                },
+            "img": "https://www.mimovrste.com/i/48853880/1000/1000"
+        },
+        {
+            "articleID": 32,
+            "articleCategoryID": 4,
+            "title": "Kingston FURY Beast Black ",
+            "description": "Pomnilnik Kingston FURY Beast DDR4 zagotavlja resno povečanje zmogljivosti pri igranju iger, urejanju videa in upodabljanju s hitrostjo do 3733 MHz*. Ta stroškovno učinkovita nadgradnja je na voljo s hitrostmi 2666–3733 MHz, latencami CL15–19, zmogljivostmi posameznih modulov 4–32 GB in zmogljivostmi kompletov 8–128 GB. Pomnilnik je opremljen s funkcijo samodejnega prekrmiljenja Plug N Play do 2666 MHz ter podpira način Intel XMP in procesorje AMD Ryzen. Z elegantnim nizkoprofilnim hladilnikom ostaja pomnilnik FURY Beast DDR4 hladen. 100-odstotno preverjena hitrost z doživljenjsko garancijo – preprosta in brezskrbna nadgradnja za sisteme s procesorji Intel in AMD.",
+            "brand": "Kingston",
+            "price": "110",
+            "technicalSpecifications":{
+                "Tip pomnilnika": "DDR4",
+                "Vrsta modula": "DIMM",
+                "Kapaciteta": "32GB",
+                "Frekvenca": "3600 MHz",
+                "Zakasnitev": "CL18"
+                },
+            "img": "https://www.mimovrste.com/i/91898521/1000/1000"
+        },
+        {
+            "articleID": 33,
+            "articleCategoryID": 4,
+            "title": "Kingston Fury Renegade ",
+            "description": "Fury Renegade pomnilnik RAM omogoča visoko zmogljivost vašemu računalniškemu sistemu.",
+            "brand": "Kingston",
+            "price": "363",
+            "technicalSpecifications":{
+                "Tip pomnilnika": "DDR5",
+                "Vrsta modula": "DIMM",
+                "Kapaciteta": "64GB",
+                "Frekvenca": "6000MHz",
+                "Zakasnitev": "CL32"
+                },
+            "img": "https://www.mimovrste.com/i/101848037/1000/1000"
+        },
+        {
+            "articleID": 34,
+            "articleCategoryID": 4,
+            "title": "Crucial",
+            "description": "Pomnilnik se ponaša s kapaciteto 16 GB, vrsto pomnilnika DDR4 in hitrostjo 3200 MT/s. Primeren je za prenosne računalnike. ",
+            "brand": "Crucial",
+            "price": "44",
+            "technicalSpecifications":{
+                "Tip pomnilnika": "DDR4",
+                "Vrsta modula": "SODIMM",
+                "Kapaciteta": "16 GB",
+                "Frekvenca": "3200 MHz",
+                "Zakasnitev": " CL22"
+                },
+            "img": "https://www.mimovrste.com/i/50698706/1000/1000"
+        },
+        {
+            "articleID": 35,
+            "articleCategoryID": 4,
+            "title": "Patriot Viper Venom",
+            "description": "DDR5 RAM pomnilnik kapacitete 32 GB (2 × 16 GB) in RGB osvetlitvijo. Primeren je za namizne računalnike in podpira Intel Extreme Memory Profiles 3.0 (Intel XMP 3.0). Pasivni hladilnik pa bo zagotovil visoko učinkovito odvajanje toplote za brezhibno zmogljivost.",
+            "brand": "Patriot",
+            "price": "329",
+            "technicalSpecifications":{
+                "Tip pomnilnika": "DDR5",
+                "Vrsta modula": "DIMM",
+                "Kapaciteta": "32 GB (2x16 GB)",
+                "Frekvenca": "5600 MHz",
+                "Zakasnitev": "CL36"
+                },
+            "img": "https://www.mimovrste.com/i/92530909/1000/1000"
+        },
+        {
+            "articleID": 36,
+            "articleCategoryID": 4,
+            "title": "G.Skill Trident Z",
+            "description": "Zasnovan in optimiziran za popolno združljivost na najnovejših platformah AMD Ryzen, Trident Z Neo prinaša neprimerljivo zmogljivost pomnilnika in živahno osvetlitev RGB za kateri koli igralni računalnik ali delovno postajo z najnovejšimi procesorji AMD Ryzen in matičnimi ploščami AMD DDR4. ",
+            "brand": "G.Skill",
+            "price": "328",
+            "technicalSpecifications":{
+                "Tip pomnilnika": "DDR4",
+                "Vrsta modula": "DIMM",
+                "Kapaciteta": "32GB, 4x8GB",
+                "Frekvenca": "3200 MHz",
+                "Zakasnitev": "CL14"
+                },
+            "img": "https://www.mimovrste.com/i/83206600/1000/1000"
+        },
+        {
+            "articleID": 37,
+            "articleCategoryID": 4,
+            "title": "Lexar",
+            "description": "Povečajte zmogljivost in odzivnost svojega namiznega računalnika s pomnilnikom Lexar, ki ima kapaciteto 8 GB. ",
+            "brand": "Lexar",
+            "price": "36",
+            "technicalSpecifications":{
+                "Tip pomnilnika": "DDR4",
+                "Vrsta modula": "UDIMM",
+                "Kapaciteta": "8 GB",
+                "Frekvenca": "2666 MHz",
+                "Zakasnitev": "CL19"
+                },
+            "img": "https://www.mimovrste.com/i/55602046/1000/1000"
+        },
+        {
+            "articleID": 38,
+            "articleCategoryID": 4,
+            "title": "Kingston HyperX FURY",
+            "description": "Kingston DDR4 64GB (komplet 4×16GB) HyperX FURY DIMM 3466MHz CL17 RGB ",
+            "brand": "Kingston",
+            "price": "332",
+            "technicalSpecifications":{
+                "Tip pomnilnika": "DDR4",
+                "Vrsta modula": " DIMM ",
+                "Kapaciteta": " 64GB (4x16GB)",
+                "Frekvenca": "3466 MHz",
+                "Zakasnitev": "CL17"
+                },
+            "img": "https://www.mimovrste.com/i/91893421/1000/1000"
+        },
+        {
+            "articleID": 39,
+            "articleCategoryID": 4,
+            "title": "G.Skill Ripjaws S5",
+            "description": "Ripjaw serija RAM pomnilnikov zajema idealno ravnovesje med zmogljivostjo, kompatibilnostjo in stabilnostjo.",
+            "brand": "G.Skill",
+            "price": "351",
+            "technicalSpecifications":{
+                "Tip pomnilnika": "DDR5",
+                "Vrsta modula": "DIMM",
+                "Kapaciteta": " 64GB (2x32GB)",
+                "Frekvenca": "6400 MHz",
+                "Zakasnitev": "CL32"
+                },
+            "img": "https://www.mimovrste.com/i/101111634/1000/1000"
+        },
+        {
+            "articleID": 40,
+            "articleCategoryID": 4,
+            "title": "HP V2",
+            "description": "Pomnilniki V2 združujejo energijsko učinkovitost, izvrstno združljivost in priznano kakovost. Zagotavljajo večjo zmogljivost obdelave podatkov za brezhibno delo in večopravilnost. ",
+            "brand": "HP",
+            "price": "102",
+            "technicalSpecifications":{
+                "Tip pomnilnika": "DDR4",
+                "Vrsta modula": "UDIMM",
+                "Kapaciteta": "32 GB",
+                "Frekvenca": " 3200 MHz",
+                "Zakasnitev": "CL16"
+                },
+            "img": "https://www.mimovrste.com/i/84311744/1000/1000"
+        },
+        {
+            "articleID": 41,
+            "articleCategoryID": 5,
+            "title": "ASUS Prime H610I-Plus",
+            "description": "Matične plošče serije ASUS Prime so posebej narejene, da sprostijo polni potencial procesorjev Intel® 12. generacije. Prime H610, ki se ponaša z robustno zasnovo napajanja, obsežnimi rešitvami za hlajenje in oametnimi možnostmi nastavljanja, uporabnikom in izdelovalcem osebnih računalnikov DIY ponuja številne možnosti prilagajanja zmogljivosti prek intuitivne programske opreme in funkcij vdelane programske opreme.",
+            "brand": "ASUS",
+            "price": "116",
+            "technicalSpecifications":{
+                "Format": "mini-ITX",
+                "Podnožje": "LGA 1700",
+                "Podpora za shranjevanje": "4 x SATA 6Gb/s priključki",
+                "Podpora pomnilnika": "2 x DIMM, do 64GB, DDR4",
+                "WiFi": "brez"
+                },
+            "img": "https://www.mimovrste.com/i/87756904/1000/1000"
+        },
+        {
+            "articleID": 42,
+            "articleCategoryID": 5,
+            "title": "Gigabyte Aorus Elite V2 B550",
+            "description": "Osnovna plošča Aorus Elite B550 V2 je pripravljena za napredne in zmogljive procesorje AMD Ryzen 3. generacije. Izkusite neverjetno procesorsko moč za brezhibno delo in gaming. Plošča se ponaša tudi z novimi PCI Express 4.0 vodili, ki zagotavljajo kar 2-kratno hitrost v primerjavi s tretjo generacijo, vgrajena RGB Fusion 2.0 LED osvetlitev pa bo poskrbela za izjemen prikaz vašega sanjskega sistema.",
+            "brand": "Gigabyte",
+            "price": "161",
+            "technicalSpecifications":{
+                "Format": "ATX",
+                "Podnožje": "AM4",
+                "Podpora za shranjevanje": "4 x SATA 6 Gb/s, 2 x M.2",
+                "Podpora pomnilnika": "4 x DDR4 DIMM do 128 GB",
+                "WiFi": "brez"
+                },
+            "img": "https://www.mimovrste.com/i/54480586/1000/1000"
+        },
+        {
+            "articleID": 43,
+            "articleCategoryID": 5,
+            "title": "ASUS TUF Gaming B550M",
+            "description": "Osnovna plošča TUF Gaming B550M-PLUS WiFi II združuje napredne tehnologije in zanesljive komponente za brezhibno gaming zmogljivost v vsakem trenutku. Opremljena je z Intel® Wi-Fi 6 brezžično tehnologijo, PCIe 4.0 M.2 vodilom ter USB 3.2 Gen 2 Type-A in Type-C podporo. Primerna je za procesorje Ryzen™ 5000 Series/ 5000 G-Series/ 4000 G-Series/ 3000. ",
+            "brand": "ASUS ",
+            "price": "150",
+            "technicalSpecifications":{
+                "Format": "microATX",
+                "Podnožje": "AM4",
+                "Podpora za shranjevanje": "4 x SATA 6 Gb/s, 4 x M.2",
+                "Podpora pomnilnika": "4 x DIMM, Max. 128 GB, DDR4 4866",
+                "WiFi": "da"
+                },
+            "img": "https://www.mimovrste.com/i/77111756/1000/1000"
+        },
+        {
+            "articleID": 44,
+            "articleCategoryID": 5,
+            "title": "ASUS ROG Crosshair VIII Hero ",
+            "description": "Osnovna plošča ROG Crosshair VIII Hero (WI-FI) vsebuje zmogljiv vezni nabor AMD X570 za osupljive možnosti navijanja in grafične konfiguracije AMD CrossFireX in NVIDIA SLI®. Ima podporo za brezžično Wi-Fi 6 povezovanje. Primerna je za procesorje AMD Ryzen™ 5000 Series/ 4000 G-Series/ 3000 Series/ 3000 G-Series/ 2000 Series/ 2000 G-Series.",
+            "brand": "ASUS",
+            "price": "421",
+            "technicalSpecifications":{
+                "Format": "ATX ",
+                "Podnožje": "AM4",
+                "Podpora za shranjevanje": "8 x SATA 6Gb/s, 3 x M.2",
+                "Podpora pomnilnika": "4 x DIMM, Max. 128GB, DDR4 4866",
+                "WiFi": "DA"
+                },
+            "img": "https://www.mimovrste.com/i/58831573/1000/1000"
+        },
+        {
+            "articleID": 45,
+            "articleCategoryID": 5,
+            "title": "ASRock B560",
+            "description": "Osnovna plošča B560 Pro4 prinaša osupljivo zmogljivost in vrhunsko estetiko. Primerna je za sodobne procesorje Intel® Core™ 10. in 11. generacije. Ponuja bliskovito hitro povezljivost in kakovostne komponente. ",
+            "brand": "ASRock",
+            "price": "131",
+            "technicalSpecifications":{
+                "Format": "ATX",
+                "Podnožje": " LGA1200",
+                "Podpora za shranjevanje": "6 x SATA3 6.0 Gb/s, 3 x M.2",
+                "Podpora pomnilnika": "4 x DDR4 DIMM, največ 128 GB",
+                "WiFi": "brez"
+                },
+            "img": "https://www.mimovrste.com/i/56187808/1000/1000"
+        },
+        {
+            "articleID": 46,
+            "articleCategoryID": 5,
+            "title": "Gigabyte Z590 Gaming X",
+            "description": "Osnovna plošča Z590 Gaming X je opremljena z zmogljivo napajalno in termično zasnovo, vodilom PCIe 4.0 in napredno povezljivostjo za brezhibno gaming izkušnjo. Primerna je za 11. in 10. generacijo Intel® Core™ procesorjev. ",
+            "brand": "Gigabyte",
+            "price": "191",
+            "technicalSpecifications":{
+                "Format": "ATX ",
+                "Podnožje": "LGA1200",
+                "Podpora za shranjevanje": "6 x SATA 6 Gb/s, 3 x M.2",
+                "Podpora pomnilnika": "DDR4 5333",
+                "WiFi": "brez"
+                },
+            "img": "https://www.mimovrste.com/i/58849417/1000/1000"
+        },
+        {
+            "articleID": 47,
+            "articleCategoryID": 5,
+            "title": "ASUS MB ROG Maximus XII Hero",
+            "description": "Osnovna plošča ROG Maximus XII Hero združuje najnovejšo Intel® platformo in izvrstno vzdržljivost. Z visoko kakovostnimi komponentami in celovitim naborom možnosti hlajenja predstavlja odlično zmogljivost za gaming sisteme. Primerna je za Intel® procesorje 10. generacije.",
+            "brand": "ASUS",
+            "price": "455",
+            "technicalSpecifications":{
+                "Format": "ATX ",
+                "Podnožje": "LGA 1200",
+                "Podpora za shranjevanje": "6 x SATA 6 Gb/s, 3 x M.2",
+                "Podpora pomnilnika": "4 x DIMM, do 128GB, DDR4, do 4800 MHz",
+                "WiFi": "da"
+                },
+            "img": "https://www.mimovrste.com/i/51060069/1000/1000"
+        },
+        {
+            "articleID": 48,
+            "articleCategoryID": 5,
+            "title": "MSI B450M MORTAR MAX",
+            "description": "Osnovna plošča MSI B450M MORTAR MAX z veznim naborom AMD B450 je namenjena za napredne AMD Ryzen procesorje s podnožjem AM4 (ne podpira Ryzen 5000). Podpira 4× DDR4 delovni pomnilnik do skupne kapacitete 128 GB, 2× SSD pogona s formatom M.2, vsebuje pa tudi hiter vmesnik USB 3.2 Gen2.",
+            "brand": "MSI",
+            "price": "54",
+            "technicalSpecifications":{
+                "Format": "mATX ",
+                "Podnožje": "AM4",
+                "Podpora za shranjevanje": "4 x SATA 6Gb/s konektorji",
+                "Podpora pomnilnika": "4 x DDR4 DIMM do 4133 MHz ",
+                "WiFi": "brez"
+                },
+            "img": "https://www.mimovrste.com/i/54395636/1000/1000"
+        },
+        {
+            "articleID": 49,
+            "articleCategoryID": 5,
+            "title": "MSI B450 TOMAHAWK MAX",
+            "description": "Osnovna plošča B450 TOMAHAWK MAX združuje kakovostne in vzdržljive komponente za bliskovito ter brezhibno gaming izkušnjo. Opremljena je s podporo za zmogljive AMD Ryzen procesorje prve, druge in tretje generacije. Artikel ima odprto embalažo in je bil lahko uporabljen.",
+            "brand": "MSI",
+            "price": "64",
+            "technicalSpecifications":{
+                "Format": "ATX",
+                "Podnožje": "AM4",
+                "Podpora za shranjevanje": "6 x SATA 6 Gb/s, 2 x M.2",
+                "Podpora pomnilnika": "4× DDR4, do 64GB",
+                "WiFi": "brez"
+                },
+            "img": "https://www.mimovrste.com/i/44538185/1000/1000"
+        },
+        {
+            "articleID": 50,
+            "articleCategoryID": 5,
+            "title": "Biostar Racing B550GTA ",
+            "description": "Osnovna plošča Biostar Racing B550GTA združuje sodobno AMD platformo in zanesljivo vzdržljivost. Opremljena je s PCIe 4.0, PCIe M.2 4.0, Armor Gear, Vivid LED DJ, LED Rock Zone in BIOS EZ. Primerna je tudi za procesorje AMD Ryzen™ 5000 Series.",
+            "brand": "Biostar",
+            "price": "149",
+            "technicalSpecifications":{
+                "Format": "ATX ",
+                "Podnožje": "AM4",
+                "Podpora za shranjevanje": "6 x SATA 6 Gb/s, 2 x M.2",
+                "Podpora pomnilnika": "4 x DDR4 DIMM, do 128 GB 4933+(OC)",
+                "WiFi": "brez"
+                },
+            "img": "https://www.mimovrste.com/i/55605504/1000/1000"
+        },
+        {
+            "articleID":51 ,
+            "articleCategoryID": 6,
+            "title": "Silicon Power Ace A55 SSD",
+            "description": "Visokokakovosten izdelek Ace A55 je pozicioniran kot eden najbolj stroškovno učinkovitih modelov SSD. Z naprednim vmesnikom SATA III 6Gb/s in dostopno ceno lahko zdaj preprosto nadgradite svoj stari računalnik, ne da bi pri tem porabili bogastvo. ",
+            "brand": "Silicon Power",
+            "price": "26.72",
+            "technicalSpecifications":{
+                "Kapaciteta": "512GB",
+                "Tip": "SSD disk",
+               	"Format": "2.5\"",
+                "Vmesnik": "SATA 3.0"
+                },
+            "img": "https://www.mimovrste.com/i/84527789/1000/1000"
+        },
+        {
+            "articleID":52 ,
+            "articleCategoryID": 6,
+            "title": "Kingston SSD disk A400 480GB",
+            "description": "SSD disk Kingston A400 bo občutno izboljšal odzivnost in hitrost vašega sistema – v primerjavi s klasičnimi, mehanskimi trdimi diski (HDD) vam SSD diski nudijo veliko višje hitrosti zagona aplikacij in prenosa podatkov.",
+            "brand": "Kingston",
+            "price": "32.41",
+            "technicalSpecifications":{
+                "Kapaciteta": "480GB",
+                "Tip": "SSD disk",
+               	"Format": "2.5\"",
+                "Vmesnik": "SATA 3.0"
+                },
+            "img": "https://www.mimovrste.com/i/38065767/1000/1000"
+        },
+        {
+            "articleID":53 ,
+            "articleCategoryID": 6,
+            "title": "Samsung 980 SSD disk, 500 GB",
+            "description": "Odličen Samsung M.2 SSD disk kapacitete 500 GB s PCIe 3.0 NVMe vmesnikom, kontrolerjem Pablo in tehnologijama HBM ter TurboWrite prinaša visoke hitrosti. ",
+            "brand": "Samsung",
+            "price": "41.10",
+            "technicalSpecifications":{
+                "Kapaciteta": "512GB",
+                "Tip": "SSD disk",
+               	"Format": "M.2 2280\"",
+                "Vmesnik": "M.2 PCI-Express"
+                },
+            "img": "https://www.mimovrste.com/i/84527789/1000/1000"
+        },
+        {
+            "articleID":54 ,
+            "articleCategoryID": 6,
+            "title": "Verbatim MyMedia SSD disk, SATA III, 2.5, 128 GB",
+            "description": "SSD disk proizvajalca MyMedia je odlična izbira pri nadgrajevanju prenosnikov ali namiznih računalnikov, saj je izredno zmogljiv in zanesljiv.",
+            "brand": "MyMedia",
+            "price": "17.66",
+            "technicalSpecifications":{
+                "Kapaciteta": "128GB",
+                "Tip": "SSD disk",
+               	"Format": "2.5\"",
+                "Vmesnik": "SATA 3.0"
+                },
+            "img": "https://www.mimovrste.com/i/57363880/1000/1000"
+        },
+        {
+            "articleID":55 ,
+            "articleCategoryID": 6,
+            "title": "Samsung SSD disk 970 Evo Plus SSD 1TB ",
+            "description": "Izboljšane hitrosti branja in pisanja vse do 3500/3300 MB/s so kar za 53 % boljše od predhodne generacije. Potrebe vseh iger in 4K ter 3D grafičnih oblikovanj bo SSD disk zadovoljil z novim Phoenix kontrolorjem in inteligentno TurboWrite tehnologijo.",
+            "brand": "Samsung",
+            "price": "120",
+            "technicalSpecifications":{
+                "Kapaciteta": "1000GB",
+                "Tip": "SSD disk",
+               	"Format": "M.2 2280",
+                "Vmesnik": "M.2 PCI-Express"
+                },
+            "img": "https://www.mimovrste.com/i/42295920/1000/1000"
+        },
+        {
+            "articleID":56 ,
+            "articleCategoryID": 7,
+            "title": "Seagate trdi disk BarraCuda 2 TB ",
+            "description": "Trdi disk BarraCuda, 2 TB, Velika kapaciteta 2 TB za shranjevanje velikega števila vaših datotek, Zanesljivo in hitro delovanje nameščenega operacijskega sistema, programov in iger, Delovanje preko hitrega vmesnika SATA3 (6 Gb/s), Delovanje s 7200 obrati na minuto",
+            "brand": "Seagate",
+            "price": "54",
+            "technicalSpecifications":{
+                "Kapaciteta": "2000GB",
+                "Tip": "HDD disk",
+               	"Format": "3,5\"",
+                "Vmesnik": "SATA 3.0",
+                "Hitrost": "7200 obr./min"
+                },
+            "img": "https://www.mimovrste.com/i/41811684/1000/1000"
+        },
+        {
+	   "articleID":57 ,
+            "articleCategoryID": 7,
+            "title": "WD Purple HDD disk, 2 TB, SATA3 ",
+            "description": "Trdi diski WD Purple so narejeni za nadzorne sisteme, da prenesejo toplotna nihanja in vibracije opreme v okoljih NVR. ",
+            "brand": "Western Digital",
+            "price": "66.70",
+            "technicalSpecifications":{
+                "Kapaciteta": "2000GB",
+                "Tip": "HDD disk",
+               	"Format": "3,5\"",
+                "Vmesnik": "SATA 3.0",
+                "Hitrost": "5400 obr./min"
+                },
+            "img": "https://www.mimovrste.com/i/82407896/1000/1000"
+        },
+        {
+            "articleID":58 ,
+            "articleCategoryID": 7,
+            "title": "Western Digital trdi disk Purple 4TB  ",
+            "description": "Trdi disk WD Purple je posebej oblikovana shrambena rešitev namenjena za omrežne video snemalne sisteme in varnostne sisteme, kjer je potrebna modularnost in skalarnost. Trdi disk je narejen za konstantno 24/7 delovanje.",
+            "brand": "Seagate",
+            "price": "113.20",
+            "technicalSpecifications":{
+                "Kapaciteta": "4000GB",
+                "Tip": "HDD disk",
+               	"Format": "3,5\"",
+                "Vmesnik": "SATA 3.0",
+                "Hitrost": "7200 obr./min"
+                },
+            "img": "https://www.mimovrste.com/i/41811684/1000/1000"
+        },
+        {
+            "articleID":59 ,
+            "articleCategoryID": 7,
+            "title": "Toshiba P300 trdi disk (HDD), 4 TB ",
+            "description": "8,89 cm (3,5\") trdi disk za namizni računalnik Toshiba P300 omogoča visoko zmogljivost za profesionalno delo. Z dvostopenjskim pogonom lahko pričakujete gladko in odzivno delovanje sistema.",
+            "brand": "Toshiba",
+            "price": "92.80",
+            "technicalSpecifications":{
+                "Kapaciteta": "4000GB",
+                "Tip": "HDD disk",
+               	"Format": "3,5\"",
+                "Vmesnik": "SATA 3.0",
+                "Hitrost": "7200 obr./min"
+                },
+            "img": "https://www.mimovrste.com/i/76888019/1000/1000"
+        },
+        {
+            "articleID":60,
+            "articleCategoryID": 7,
+            "title": "Seagate Ironwolf Pro trdi disk (HDD) ",
+            "description": "8,89 cm (3,5\") trdi disk (HDD) je zasnovan za vse poslovne NAS sisteme in zagotavlja stopnjo delovne obremenitve WRL 300 TB/leto. Omogoča 24/7 delovanje in je zato primeren tudi za podjetja. Ponaša se s kapaciteto 4 TB in hitrim vmesnikom SATA 6 Gb/s.",
+            "brand": "Seagate",
+            "price": "138.70",
+            "technicalSpecifications":{
+                "Kapaciteta": "4000GB",
+                "Tip": "HDD disk",
+               	"Format": "3,5\"",
+                "Vmesnik": "SATA 3.0",
+                "Hitrost": "7200 obr./min"
+                },
+            "img": "https://www.mimovrste.com/i/85573389/1000/1000"
+        },
+        {
+            "articleID":61,
+            "articleCategoryID": 8,
+            "title": "ASUS ROG Strix GeForce RTX 4090 OC Edition",
+            "description": "Tu je nova generacija napredne NVIDIA RTX arhitekture – Ada Lovelace. Z grafičnim procesorjem GeForce RTX 4090 bo ray tracing upodabljanje še bolj brezhibno, umetna inteligenca pa še osupljivejša. Takšne grafične zmogljivosti v igrah še ni bilo!",
+            "brand": "Nvidia",
+            "price": "2388.99",
+            "technicalSpecifications":{
+                "Hitrost pomnilnika": "2640 MHz",
+                "Vrsta pomnilnika" : "24GB GDDR6X",
+                "Vmesnik grafične kartice" : "PCI-Express x16",
+                "Video izhod": "3x DisplayPort 1.4a"
+                },
+            "img": "https://www.mimovrste.com/i/98062941/1000/1000"
+        },
+        {
+            "articleID":62,
+            "articleCategoryID": 8,
+            "title": "ASUS Dual GeForce RTX 3060 White OC Edition ",
+            "description": "Tu je 2. generacija napredne NVIDIA RTX arhitekture – Ampere. Z grafični procesorjem GeForce RTX 3060 bo ray tracing upodabljanje še bolj brezhibno, umetna inteligenca pa še osupljivejša. Takšne grafične zmogljivosti v igrah še ni bilo!",
+            "brand": "Nvidia",
+            "price": "422.30",
+            "technicalSpecifications":{
+                "Hitrost pomnilnika": "1867 MHz",
+                "Vrsta pomnilnika" : "8GB GDDR6",
+                "Vmesnik grafične kartice" : "PCI-Express x16",
+                "Video izhod": "3x DisplayPort 1.4a"
+                },
+            "img": "https://www.mimovrste.com/i/97303052/1000/1000"
+        },
+        {
+            "articleID":63,
+            "articleCategoryID": 8,
+            "title": "ASUS Dual Radeon RX 6600 XT",
+            "description": "Tu je izjemna AMD RDNA™ 2 grafična arhitektura, ki predstavlja temelj naslednje generacije osebnih računalnikov in igralnih konzol. Prinaša osupljivo zmogljivost in celo 4K UHD igranje z naprednim upodabljanjem, živimi vizualnimi podobami in izkušnjami na novem nivoju. ",
+            "brand": "AMD",
+            "price": "545.30",
+            "technicalSpecifications":{
+                "Hitrost pomnilnika": "2607 MHz",
+                "Vrsta pomnilnika" : "8GB GDDR6",
+                "Vmesnik grafične kartice" : "PCI-Express x16",
+                "Video izhod": "3x DisplayPort 1.4a"
+                },
+            "img": "https://www.mimovrste.com/i/69800165/1000/1000"
+        },
+        {
+            "articleID":64,
+            "articleCategoryID": 8,
+            "title": "ASUS TUF GAMING Radeon RX 6900 XT ",
+            "description": "Grafična kartica je opremljena s kar tremi ventilatorji z edinstveno obliko Axial-tech za boljši zračni pretok, z delovanjem pa bodo pričeli šele pri temperaturi višji od 60 °C za tiho delovanje. MaxContact tehnologija hladilnika poskrbi za še boljše odvajanje toplote.",
+            "brand": "AMD",
+            "price": "2123.20",
+            "technicalSpecifications":{
+                "Hitrost pomnilnika": "2340 MHz",
+                "Vrsta pomnilnika" : "16GB GDDR6",
+                "Vmesnik grafične kartice" : "PCI-Express x16",
+                "Video izhod": "3x DisplayPort 1.4a"
+                },
+            "img": "https://www.mimovrste.com/i/55599728/1000/1000"
+        },
+        {
+            "articleID":65,
+            "articleCategoryID": 8,
+            "title": "ASUS Phoenix GeForce RTX™ 3060 V2 ",
+            "description": "Grafična kartica je opremljena z velikim ventilatorjem, ki bo zagotovila učinkovito hlajenje. S podporo za programsko opremo GPU Tweak II pa bo upravljanje pregledno in preprosto.",
+            "brand": "Nvidia",
+            "price": "480.30",
+            "technicalSpecifications":{
+                "Hitrost pomnilnika": "1870 MHz",
+                "Vrsta pomnilnika" : "12GB GDDR6",
+                "Vmesnik grafične kartice" : "PCI-Express x16",
+                "Video izhod": "3x DisplayPort 1.4a"
+                },
+            "img": "https://www.mimovrste.com/i/63485607/1000/1000"
+        },
+        {
+            "articleID":66,
+            "articleCategoryID": 9,
+            "title": "LC Power napajalnik Super Silent LC6650 V2.3 650W",
+            "description": "Napajalnik LC Power Super Silent LC6650 V2.3 uporablja dizajn z eno samo 12 V linijo, na kateri ponuja 50 A in je s tem primeren za poganjanje tudi najmočnejših grafičnih kartic. Napajalnik je odlična izbira tudi za zahtevnejše uporabnike. Učinkovitost zagotavljata 80PLUS Bronze certifikat ter aktivni PFC.",
+            "brand": "LC Power",
+            "price": "58.29",
+            "technicalSpecifications":{
+                "Tip": "Vgradni",
+                "Moč": "650W",
+                "Certifikat": "80 Plus Bronze"
+                },
+            "img": "https://www.mimovrste.com/i/39940127/1000/1000"
+        },
+        {
+            "articleID":67,
+            "articleCategoryID": 9,
+            "title": "Inter-tech Argus RGB-650W CM II ",
+            "description": "Argus RGB-650W CM II napajalnik lahko z gumbom na zadnji strani napajalnika nadzorujete, katere barve so LED lučke v obroču ventilatorja. ",
+            "brand": "Inter-tech",
+            "price": "63.29",
+            "technicalSpecifications":{
+                "Tip": "Vgradni",
+                "Moč": "650W",
+                "Certifikat": "80 Plus Gold"
+                },
+            "img": "https://www.mimovrste.com/i/33007700/1000/1000"
+        },
+        {
+            "articleID":68,
+            "articleCategoryID": 9,
+            "title": "Be quiet! System Power 9, 700W",
+            "description": "Modularni napajalnik System Power 9 700W CM (BN303) proizvajalca BE QUIET! se ponaša s certifikatom 80 Plus Bronze, kar zagotavlja stabilno in zanesljivo napajanje vseh komponent v računalniku.",
+            "brand": "BE QUIET!",
+            "price": "98.52",
+            "technicalSpecifications":{
+                "Tip": "Vgradni",
+                "Moč": "700W",
+                "Certifikat": "80 Plus Bronze"
+                },
+            "img": "https://www.mimovrste.com/i/44010278/1000/1000"
+        },
+        {
+            "articleID":69,
+            "articleCategoryID": 9,
+            "title": "LC Power LC6750M V2.31 modularni napajalnik, 750 W",
+            "description": "Modularni napajalnik LC-POWER LC6750M V2.31 s 750 W neprekinjene moči vsebuje 120 mm ventilator in se ponaša s certifikatom učinkovitosti 80 PLUS Gold.",
+            "brand": "LC Power",
+            "price": "93.56",
+            "technicalSpecifications":{
+                "Tip": "Vgradni",
+                "Moč": "750W",
+                "Certifikat": "80 Plus Gold"
+                },
+            "img": "https://www.mimovrste.com/i/59113322/1000/1000"
+        },
+        {
+            "articleID":70,
+            "articleCategoryID": 9,
+            "title": "ASUS ROG Strix 850W Gold PSU napajalnik, 80 Plus Gold",
+            "description": "Napajalnik LC Power Super Silent LC6650 V2.3 uporablja dizajn z eno samo 12 V linijo, na kateri ponuja 50 A in je s tem primeren za poganjanje tudi najmočnejših grafičnih kartic. Napajalnik je odlična izbira tudi za zahtevnejše uporabnike. Učinkovitost zagotavljata 80PLUS Bronze certifikat ter aktivni PFC.",
+            "brand": "ASUS",
+            "price": "184.62",
+            "technicalSpecifications":{
+                "Tip": "Vgradni",
+                "Moč": "850W",
+                "Certifikat": "80 Plus Gold"
+                },
+            "img": "https://www.mimovrste.com/i/66796689/1000/1000"
+        },
+        {
+            "articleID":70,
+            "articleCategoryID": 9,
+            "title": "ASUS ROG Strix 850W Gold PSU napajalnik, 80 Plus Gold",
+            "description": "Napajalnik LC Power Super Silent LC6650 V2.3 uporablja dizajn z eno samo 12 V linijo, na kateri ponuja 50 A in je s tem primeren za poganjanje tudi najmočnejših grafičnih kartic. Napajalnik je odlična izbira tudi za zahtevnejše uporabnike. Učinkovitost zagotavljata 80PLUS Bronze certifikat ter aktivni PFC.",
+            "brand": "ASUS",
+            "price": "184.62",
+            "technicalSpecifications":{
+                "Tip": "Vgradni",
+                "Moč": "850W",
+                "Certifikat": "80 Plus Gold"
+                },
+            "img": "https://www.mimovrste.com/i/66796689/1000/1000"
+        },
+        {
+            "articleID":71,
+            "articleCategoryID": 10,
+            "title": "Cougar Dark Blader X5",
+            "description": "Cougar Dark Blader X5 ohišje s prefinjeno zasnovo prinaša edinstven in sodoben slog z vrhunskim pretokom zraka ter odličnim videzom.",
+            "brand": "Cougar",
+            "price": "51.99",
+            "technicalSpecifications":{
+                "Tip": "Midi Tower",
+                "Osnovna plošča" : "Mini ITX / Micro ATX / ATX / CEB",
+                "Steklo": "Da"
+                },
+            "img": "https://www.mimovrste.com/i/99001552/1000/1000"
+        },
+        {
+            "articleID":72,
+            "articleCategoryID": 10,
+            "title": "Inter-tech gaming ohišje",
+            "description": "Ohišje CXC2 je odlična izbira za vse igričarske navdušence. Vsebuje prozorno stranico, možnost vgradnje šestih ventilatorjev in filtre za prah. Ponuja pa tudi možnost vgradnje vodnega hlajenja.",
+            "brand": "Inter-tech",
+            "price": "66,19",
+            "technicalSpecifications":{
+                "Tip": "ATX",
+                "Osnovna plošča" : "Micro ATX, ATX in ITX",
+                "Steklo": "Da"
+                },
+            "img": "https://www.mimovrste.com/i/41165631/1000/1000"
+        },
+        {
+            "articleID":73,
+            "articleCategoryID": 10,
+            "title": "Antec Dark Phantom ohišje",
+            "description": "DP301M je mikro-ATX različica druge Antec nove igralne serije – Dark Phantom.",
+            "brand": "Antec",
+            "price": "62.99",
+            "technicalSpecifications":{
+                "Tip": "Midi Tower",
+                "Osnovna plošča" : "Mini ITX / Micro ATX",
+                "Steklo": "Da"
+                },
+            "img": "https://www.mimovrste.com/i/83747627/1000/1000"
+        },
+        {
+            "articleID":74,
+            "articleCategoryID": 10,
+            "title": "AZZA Ohišje ATX miditower APOLLO",
+            "description": "To ohišje ponuja vse, kar potrebujete za različne gradnje sistemov, saj podpira matične plošče ATX in micro ATX.",
+            "brand": "AZZA",
+            "price": "90",
+            "technicalSpecifications":{
+                "Tip": "Midi Tower",
+                "Osnovna plošča" : "Mini ITX / Micro ATX",
+                "Steklo": "Da"
+                },
+            "img": "https://www.mimovrste.com/i/67965377/1000/1000"
+        },
+        {
+            "articleID":75,
+            "articleCategoryID": 10,
+            "title": "Evolveo Functio 3, računalniško ohišje ATX",
+            "description": "Gaming ATX midi stolp s sprednjo RGB ploščo in nameščenim 1× RGB rainbow 120 mm ventilatorjem. ",
+            "brand": "Evolveo",
+            "price": "110.50",
+            "technicalSpecifications":{
+                "Tip": "Midi Tower",
+                "Osnovna plošča" : "Mini ITX / Micro ATX / ATX",
+                "Steklo": "Da"
+                },
+            "img": "https://www.mimovrste.com/i/97867929/1000/1000"
+        },
+        {
+            "articleID":76,
+            "articleCategoryID": 11,
+            "title": "Inter-tech RS-051 ventilator, RGB",
+            "description": "120-milimetrski ventilator ponuja eleganten izgled z 12 RGB LED diodami, ki se nahajajo za pol-prosojnim obročem.",
+            "brand": "Inter-tech",
+            "price": "9.50",
+            "technicalSpecifications":{
+                "Tip": "ventilator za ohišje",
+                "Velikost": "120 mm",
+                "Hitrost": "900 rpm"
+                },
+            "img": "https://www.mimovrste.com/i/60708497/1000/1000"
+        },
+        {
+            "articleID":77,
+            "articleCategoryID": 11,
+            "title": "Inter-tech LED ventilator za ohišje",
+            "description": "120-milimetrski ventilator ponuja eleganten izgled z 12 RGB LED diodami, ki se nahajajo za pol-prosojnim obročem.",
+            "brand": "Inter-tech",
+            "price": "5.82",
+            "technicalSpecifications":{
+                "Tip": "ventilator za ohišje",
+                "Velikost": "120 mm",
+                "Hitrost": "1200 rpm"
+                },
+            "img": "https://www.mimovrste.com/i/40666054/1000/1000"
+        },
+        {
+            "articleID":78,
+            "articleCategoryID": 11,
+            "title": "Marvo FN-14 ventilator za PC, RGB",
+            "description": "N-14 ventilator, velik 120 mm, odlikujejo visok pretok zraka, skoraj neslišno delovanje in učinkovita ventilacija.",
+            "brand": "Marvo",
+            "price": "5.60",
+            "technicalSpecifications":{
+                "Tip": "ventilator za ohišje",
+                "Velikost": "120 mm",
+                "Hitrost": "800 rpm"
+                },
+            "img": "https://www.mimovrste.com/i/72250257/1000/1000"
+        },
+        {
+            "articleID":79,
+            "articleCategoryID": 11,
+            "title": "Be quiet! Silent Wings 3 ventilator",
+            "description": "Ventilator blagovne znamke BE QUIET! je namenjen vrhunskemu hlajenju. S svojim skoraj neslišnim delovanjem je odlična izbira za hladilnike",
+            "brand": "Be-quiet!",
+            "price": "22.56",
+            "technicalSpecifications":{
+                "Tip": "ventilator za ohišje",
+                "Velikost": "140 mm",
+                "Hitrost": "1000 rpm"
+                },
+            "img": "https://www.mimovrste.com/i/41764653/1000/1000"
+        },
+        {
+            "articleID":80,
+            "articleCategoryID": 11,
+            "title": "Chieftec CF-3012-RGB Tornado set RGB ventilatorjev (3x120mm",
+            "description": "Chieftec CF-3012-RGB. Komplet treh ventilatorjev za hlajenje računalnika s krmilno ploščo in daljincem. Izpolni in preseže vsa pričakovanja RGB navdušenca.",
+            "brand": "Chieftech",
+            "price": "30",
+            "technicalSpecifications":{
+                "Tip": "ventilator za ohišje",
+                "Velikost": "120 mm",
+                "Hitrost": "13000 rpm"
+                },
+            "img": "https://www.mimovrste.com/i/44157871/1000/1000"
+        },
+        {
+            "articleID":81,
+            "articleCategoryID": 12,
+            "title": "Be quiet! Pure Rock 2 procesorski hladilnik",
+            "description": "BE QUIET! Pure Rock 2 procesorski hladilnik nudi tiho in zmogljivo delovanje. Ventilator ponuja izjemno hlajenje zmogljivosti 150W TDP in skoraj neslišno delovanje",
+            "brand": "BE-QUIET!",
+            "price": "47.52",
+            "technicalSpecifications":{
+                "Tip": "ventilator za procesor",
+                "Velikost": "120 mm",
+                "Hitrost": "1500 rpm",
+                "Meja moči": "150W"
+                },
+            "img": "https://www.mimovrste.com/i/60874180/1000/1000"
+        },
+        {
+            "articleID":82,
+            "articleCategoryID": 12,
+            "title": "Arctic Freezer 34 eSport DUO",
+            "description": "ARCTIC Freezer 34 eSports DUO; Zmogljiv hladilnik za procesorje Intel in AMD je opremljen s štirimi toplotnimi cevmi in dvema 120 mm ventilatorjema z nadzorom PWM, ki omogoča uravnavanje hitrosti ",
+            "brand": "Arctic",
+            "price": "68.66",
+            "technicalSpecifications":{
+                "Tip": "ventilator za procesor",
+                "Velikost": "120 mm",
+                "Hitrost": "1600 rpm",
+                "Meja moči": "200W"
+                },
+            "img": "https://www.mimovrste.com/i/92154248/1000/1000"
+        },
+        {
+            "articleID":83,
+            "articleCategoryID": 12,
+            "title": "Be quiet! Pure Rock 2 FX",
+            "description": "Pure Rock 2 FX 120 mm procesorski hladilnik vam omogoča tiho in zanesljivo delovanje brez sklepanja kompromisov. Ventilator ponuja vrhunsko hlajenje zmogljivosti 150W TDP in praktično neslišno delovanje.",
+            "brand": "BE-QUIET!",
+            "price": "53.59",
+            "technicalSpecifications":{
+                "Tip": "ventilator za procesor",
+                "Velikost": "120 mm",
+                "Hitrost": "2000 rpm",
+                "Meja moči": "150W"
+                },
+            "img": "https://www.mimovrste.com/i/87765608/1000/1000"
+        },
+        {
+            "articleID":84,
+            "articleCategoryID": 12,
+            "title": "Scythe SCMG-5200 Mugen 5",
+            "description": "Mugen 5 Rev. C Nagrajeni procesorski hladilnik Mugen 5 je na voljo v spremenjeni različici C. Med novostmi sta izboljšan sistem montaže, ki je zdaj popolnoma združljiv z Intelovo vtičnico LGA-1700, in nov ventilator Kaze Flex II PWM",
+            "brand": "Scythe",
+            "price": "136.35",
+            "technicalSpecifications":{
+                "Tip": "ventilator za procesor",
+                "Velikost": "120 mm",
+                "Hitrost": "1600 rpm",
+                "Meja moči": "200W"
+                },
+            "img": "https://www.mimovrste.com/i/92155914/1000/1000"
+        },
+        {
+            "articleID":85,
+            "articleCategoryID": 12,
+            "title": "SilentiumPC procesorski hladilnik Fortis 5 CPU hladilnik",
+            "description": "SilentiumPC Fortis 5 Zmogljiv hladilnik je opremljen s 6 toplotnimi cevmi in 140 mm ventilatorjem z nadzorom PWM.",
+            "brand": "SilentiumPC",
+            "price": "30",
+            "technicalSpecifications":{
+                "Tip": "ventilator za procesor",
+                "Velikost": "120 mm",
+                "Hitrost": "1000 rpm",
+                "Meja moči": "100W"
+                },
+            "img": "https://www.mimovrste.com/i/92154602/1000/1000"
+        },
+        {
+            "articleID":86,
+            "articleCategoryID": 13,
+            "title": "Samsung F27T350FHR monitor",
+            "description": "Univerzalni 68,58 cm (27\") monitor. Tehnologija IPS, Full HD ločljivost 1920 × 1080, odziv 5 ms, kontrast 1.000:1, svetilnost 250 cd/m2, razmerje stranic 16:9, hitrost osveževanja 75 Hz. Vmesnik: 1× HDMI 1.4, 1× D-Sub.",
+            "brand": "Samsung",
+            "price": "157.30",
+            "technicalSpecifications":{
+                "Resolucija" : "1080p",
+                "Hitrost osveževanja": "75HZ",
+                "Velikost": "24\""
+		
+                },
+            "img": "https://www.mimovrste.com/i/51708647/1000/1000"
+        },
+        {
+            "articleID":87,
+            "articleCategoryID": 13,
+            "title": "ASUS VA24DQ (90LM0543-B01370) monitor",
+            "description": "60,45 cm (23,8\") monitor Asus VA24DQ. IPS plošča, ločljivost 1920 × 1080, svetlost 250 cd / m2, kontrast 1.000: 1, odziv 5 ms, hitrost osveževanja 75 Hz.",
+            "brand": "ASUS",
+            "price": "145",
+            "technicalSpecifications":{
+                "Resolucija" : "1080p",
+                "Hitrost osveževanja": "75HZ",
+                "Velikost": "23.8\""
+		
+                },
+            "img": "https://www.mimovrste.com/i/58441603/1000/1000"
+        },
+        {
+            "articleID":88,
+            "articleCategoryID": 13,
+            "title": "ASUS TUF Gaming VG249Q IPS FHD monitor",
+            "description": "60,5 cm (23,8\") monitor za ljubitelje iger Asus VG249Q. IPS plošča, ločljivost 1920×1080, svetlost 250 cd/m2, statični kontrast 1.000: 1, odziv 1 ms, hitrost osveževanja 144 Hz.",
+            "brand": "ASUS",
+            "price": "230",
+            "technicalSpecifications":{
+                "Resolucija" : "1080p",
+                "Hitrost osveževanja": "144HZ",
+                "Velikost": "24\""
+		
+                },
+            "img": "https://www.mimovrste.com/i/47096995/1000/1000"
+        },
+        {
+            "articleID":89,
+            "articleCategoryID": 13,
+            "title": "DELL S2522HG monitor 62,23cm (24,5)",
+            "description": "Monitor namenjen igranjem iger z diagonalo zaslona 62,23 cm, ločljivostjo FHD (1920×1080), hitrostjo osveževanja slike 240 Hz, IPS matriko ter tehnologijo AMD FreeSync Premium ",
+            "brand": "Drll",
+            "price": "265",
+            "technicalSpecifications":{
+                "Resolucija" : "1080p",
+                "Hitrost osveževanja": "240HZ",
+                "Velikost": "62,2 cm"
+		
+                },
+            "img": "https://www.mimovrste.com/i/59951234/1000/1000"
+        },
+        {
+            "articleID":90,
+            "articleCategoryID": 13,
+            "title": "ASUS ROG Strix XG259CM gaming monito",
+            "description": "62,2 cm velik zaslon z ločljivostjo 1920 × 1080 in z izjemno hitro frekvenco osveževanja 240 Hz, zasnovan za profesionalne igralce in poglobljeno igranje.",
+            "brand": "ASUS",
+            "price": "473",
+            "technicalSpecifications":{
+                "Resolucija" : "1080p",
+                "Hitrost osveževanja": "240HZ",
+                "Velikost": "62,2 cm"
+		
+                },
+            "img": "https://www.mimovrste.com/i/88771940/1000/1000"
+        },
+        {
+            "articleID":91,
+            "articleCategoryID": 14,
+            "title": "Hisense 65E77HQ 4K UHD QLED televizor",
+            "description": "Televizor QLED z ločljivostjo 4K Ultra HD (3840 × 2160) in diagonalo 164 cm ter visokim dinamičnim razponom Dolby Vision, HDR10+ in HLG.",
+            "brand": "Hisense",
+            "price": "479",
+            "technicalSpecifications":{
+                "Resolucija" : "2160p",
+                "Vrsta zaslona": "LED",
+                "Velikost": "164 cm"
+		
+                },
+            "img": "https://www.mimovrste.com/i/99355393/1000/1000"
+        },
+        {
+            "articleID":92,
+            "articleCategoryID": 14,
+            "title": "TCL 55C835 Mini LED QLED TV",
+            "description": "Najnovejša serija TV sprejemnikov TCL C835 je prva QLED serija na svetu s tehnologijo TCL mini-LED! Televizorji združujejo tehnologije QLED, ločljivost 4K Ultra HD, standard HDR Premium 1000",
+            "brand": "TCL",
+            "price": "999",
+            "technicalSpecifications":{
+                "Resolucija" : "2160p",
+                "Vrsta zaslona": "QLED",
+                "Velikost": "139 cm"
+		
+                },
+            "img": "https://www.mimovrste.com/i/94267010/1000/1000"
+        },
+        {
+            "articleID":93,
+            "articleCategoryID": 14,
+            "title": "LG 55QNED86Q",
+            "description": "QNED MiniLED Smart TV z ločljivostjo 4K Ultra HD (3840 × 2160) z diagonalo 139 cm, tunerjem DVB-T/T2 (HEVC)/S2/C, Skylink Fastscan, HDR z Dolby Vision IQ. Operacijski sistem webOS 22",
+            "brand": "LG",
+            "price": "1000",
+            "technicalSpecifications":{
+                "Resolucija" : "2160p",
+                "Vrsta zaslona": "QLED",
+                "Velikost": "139 cm"
+		
+                },
+            "img": "https://www.mimovrste.com/i/82693800/1000/1000"
+        },
+        {
+            "articleID":94,
+            "articleCategoryID": 14,
+            "title": "Panasonic TX-55LZ2000E OLED televizor",
+            "description": "Televizor Master OLED Pro z ločljivostjo 4K Ultra HD (3840 × 2160) pri 139 cm, dvojni sprejemnik DVB-T/T2 (HEVC/H.265)/C/S/S2, Multi HDR (vklj. Dolby Vision IQ in HDR10+ Adaptive), Smooth Motion Drive Pro,",
+            "brand": "Panasonic",
+            "price": "2000",
+            "technicalSpecifications":{
+                "Resolucija" : "2160p",
+                "Vrsta zaslona": "OLED",
+                "Velikost": "139 cm"
+                },
+            "img": "https://www.mimovrste.com/i/83561935/1000/1000"
+        },
+        {
+            "articleID":95,
+            "articleCategoryID": 14,
+            "title": "Sony XR55A95KAEP 4K UHD ",
+            "description": "A95K BRAVIA XR pametni televizor se ponaša z izjemnimi specifikacijami. Med drugimi vas bo presenetil z OLED panelom, kristalno čisto sliko v 4K Ultra HD ločljivosti, visokim dinamičnim razponom",
+            "brand": "Sony",
+            "price": "2300",
+            "technicalSpecifications":{
+                "Resolucija" : "2160p",
+                "Vrsta zaslona": "OLED",
+                "Velikost": "65'"
+		
+                },
+            "img": "https://www.mimovrste.com/i/84746785/1000/1000"
+        },
+        {
+            "articleID":96,
+            "articleCategoryID": 15,
+            "title": "Edifier 2.0 R1280DB zvočniki ",
+            "description": "Zvočniki Edifier R1280DB uspešno združujejo odlično kakovost zvoka in klasičen, eleganten dizajn. Njihova skupna izhodna moč doseže 42 W, 4-palčni bas,",
+            "brand": "Edifier",
+            "price": "184",
+            "technicalSpecifications":{
+                "Moč": "42W",
+            "Frekvenca": "20-20kHz",
+            "Bluetooth": "Da"
+		
+                },
+            "img": "https://www.mimovrste.com/i/91999541/1000/1000"
+        },
+        {
+            "articleID":97,
+            "articleCategoryID": 15,
+            "title": "Esperanza ep140ke zvočniki 2.0",
+            "description": "Visokokakovostni stereo zvočniki za prenosne in namizne računalnike. Zagotavljajo čist in naraven zvok.",
+            "brand": "Esperanza",
+            "price": "15",
+            "technicalSpecifications":{
+                "Moč": "10W",
+                "Frekvenca": "20-20kHz",
+                "Bluetooth": "No"
+		
+                },
+            "img": "https://www.mimovrste.com/i/96382988/1000/1000"
+        },
+        {
+            "articleID":98,
+            "articleCategoryID": 15,
+            "title": "Havit SK202 roza 2.0 RGB računalniški ",
+            "description": "Zagotovite si najboljšo zvočno izkušnjo med igranjem iger in poslušanjem svojih najljubših seznamov predvajanja.",
+            "brand": "Havit",
+            "price": "35",
+            "technicalSpecifications":{
+                "Moč": "15W",
+                "Frekvenca": "20-20kHz",
+                "Bluetooth": "No"
+                },
+            "img": "https://www.mimovrste.com/i/91999541/1000/1000"
+        },
+        {
+            "articleID":99,
+            "articleCategoryID": 15,
+            "title": "Edifier HECATE G1500 SE",
+            "description": "Edifier HECATE G1500 SE 2.0 zvočniki Zagotovite si visokokakovosten zvok, ko igrate igre, gledate serije ali preprosto poslušate glasbo. ",
+            "brand": "Edifier",
+            "price": "78",
+            "technicalSpecifications":{
+                "Moč": "30W",
+                "Frekvenca": "20-20kHz",
+                "Bluetooth": "Da"
+                },
+            "img": "https://www.mimovrste.com/i/94697225/1000/1000"
+        },
+        {
+            "articleID":100,
+            "articleCategoryID": 15,
+            "title": "Edifier X230 2.1 ",
+            "description": "Edifier X230 2.1 zvočniki Zvočniki Edifier X230 2.1 bodo odlična izbira za vse igralce iger na srečo in ne le.",
+            "brand": "Edifier",
+            "price": "99",
+            "technicalSpecifications":{
+                "Moč": "38W",
+                "Frekvenca": "20-20kHz",
+                "Bluetooth": "Da"
+                },
+            "img": "https://www.mimovrste.com/i/94697237/1000/1000"
+        },
+        {
+            "articleID": 101,
+            "articleCategoryID": 16,
+            "title": "Logitech Zone Vibe 125",
+            "description": "Kompaktno zasnovane brezžične slušalke Logitech Zone Vibe 125 so primerne za konferenčne klice ali poslušanje glasbe. ",
+            "brand": "Logitech",
+            "price": "139",
+            "technicalSpecifications":{
+                "WiFi": "Da",
+                "Občutljivost": "118dB",
+                "Teža": "185g",
+                "Frekvenca": " 20Hz - 20kHz",
+                "Mikrofon": "Da"
+                },
+            "img": "https://www.mimovrste.com/i/84446478/1000/1000"
+        },
+		 {
+            "articleID": 102,
+            "articleCategoryID": 16,
+            "title": "JBL Quantum 610",
+            "description": "JBL Quantum 610 Wireless slušalke namenjene igralcem. Ponašajo se z JBL QuantumSURROUND™ in DTS, 50 mm avdio gonilniki z JBL QuantumSOUND Signature, brezžično 2,4 GHz povezavo in baterijo, ki premore do 40 ur predvajanja z enim polnjenjem! ",
+            "brand": "JBL",
+            "price": "140.60",
+            "technicalSpecifications":{
+                "WiFi": "Da",
+                "Občutljivost": "100dB",
+                "Teža": "357g",
+                "Frekvenca": " 20Hz - 20kHz",
+                "Mikrofon": "Da"
+                },
+            "img": "https://www.mimovrste.com/i/90814990/1000/1000"
+        },
+				 {
+            "articleID": 103,
+            "articleCategoryID": 16,
+            "title": "Sony WH-1000XM4, model 2020",
+            "description": "Brezžične Bluetooth slušalke s tehnologijo za odpravljanje hrupa in življenjsko dobo baterije do 30 ur. Sony WH-1000XM4, model 2020, vas popelje v svet vaše glasbe, kjer glasovi inzvoki v ozadju, ki jih oddajajo večine slušalk, ne bodo motili. Funkcija optimizacije atmosferskega tlaka uravnava zvok tudi na visoki nadmorski višini – na primer v letalu. ",
+            "brand": "Sony",
+            "price": "299.99",
+            "technicalSpecifications":{
+                "WiFi": "Da",
+                "Občutljivost": "105dB",
+                "Teža": "254g",
+                "Frekvenca": " 4Hz - 40kHz",
+                "Mikrofon": "Da"
+                },
+            "img": "https://www.mimovrste.com/i/50063512/1000/1000"
+        },
+						 {
+            "articleID": 104,
+            "articleCategoryID": 16,
+            "title": "Sennheiser Momentum 4",
+            "description": "S vrhunskimi slušalkami Bluetooth 5.2 Sennheiser Momentum Wireless 4, ki jih odlikujej hibridna tehnologija ANC za aktivno odpravljanje hrupa, način Transparency, avdiofilsko uglašeni 42 mm pretvorniki, polnilna baterija, ki zdrži do 60 ur, mikrofon za prostoročno uporabo in zložljiva oblika, do vaših ušes pride prefinjen zvok studijske kakovosti. V paketu sta priložena kakovostno ohišje in letalski adapter.",
+            "brand": "Sennheiser",
+            "price": "319.99",
+            "technicalSpecifications":{
+                "WiFi": "Da",
+                "Občutljivost": "106dB",
+                "Teža": "293g",
+                "Frekvenca": " 6Hz - 22kHz",
+                "Mikrofon": "Da"
+                },
+            "img": "https://www.mimovrste.com/i/87984746/1000/1000"
+        },
+		{
+		    "articleID": 105,
+            "articleCategoryID": 16,
+            "title": "Sennheiser HD 560S",
+            "description": "Avdiofilske slušalke Sennheiser HD 560S se ponašajo z vrhunskim zvokom, ki bo zadovoljiv tudi najzahtevnejše uporabnike. Mehke ušesne blazinice iz velurja pa zagotavljajo celodnevno udobje pri uporabi.",
+            "brand": "Sennheiser",
+            "price": "169.99",
+            "technicalSpecifications":{
+                "WiFi": "No",
+                "Občutljivost": "110dB",
+                "Teža": "240g",
+                "Frekvenca": " 6Hz - 38kHz",
+                "Mikrofon": "No"
+                },
+            "img": "https://www.mimovrste.com/i/55836811/1000/1000"
+        },
+		{
+		    "articleID": 106,
+            "articleCategoryID": 17,
+            "title": "Logitech G413",
+            "description": "Mehanska tipkovnica G413 se ponaša s stikali Romer-G™, ki so izjemno odzivna in natančna.",
+            "brand": "Logitech",
+            "price": "79.99",
+            "technicalSpecifications":{
+                "WiFi": "No",
+                "Vzdržljivost": "70 milion",
+                "Teža": "1105g",
+                "Barva": " Carbon",
+                "Razporeditev znakov": "US international"
+                },
+            "img": "https://www.mimovrste.com/i/51439662/1000/1000"
+        },
+		{
+		    "articleID": 107,
+            "articleCategoryID": 17,
+            "title": "Corsair K55 RGB Pro",
+            "description": "Gaming tipkovnica Corsair K55 RGB Pro osvetli vaše namizje s pet-consko dinamično RGB osvetlitvijo in poživi vaše igranje s šestimi namenskimi makro tipkami, ki jih je preprosto nastaviti.",
+            "brand": "Corsair",
+            "price": "67.70",
+            "technicalSpecifications":{
+                "WiFi": "Ne",
+                "Vzdržljivost": "70 milijon",
+                "Teža": "800g",
+                "Barva": "Črna",
+                "Razporeditev znakov": "US international"
+                },
+            "img": "https://www.mimovrste.com/i/79556157/1000/1000"
+        },
+		{
+		    "articleID": 108,
+            "articleCategoryID": 17,
+            "title": "ASUS TUF Gaming K3",
+            "description": "Vrhunska igričarska tipkovnica TUF Gaming K3 se ponaša s kovinsko zgornjo stranjo, naslonom za roke, osem programabilnimi makro tipkami, USB 2.0 priključkom in Aura Sync osvetlitvijo.",
+            "brand": "ASUS",
+            "price": "103.90",
+            "technicalSpecifications":{
+                "WiFi": "Ne",
+                "Vzdržljivost": "50 milijon",
+                "Teža": "1110g",
+                "Barva": "Aluminijsko črna",
+                "Razporeditev znakov": "UK - SLO gravura"
+                },
+            "img": "https://www.mimovrste.com/i/55343269/1000/1000"
+        },
+		{
+		    "articleID": 109,
+            "articleCategoryID": 17,
+            "title": "ASUS ROG Strix Scope RX TKL",
+            "description": "ASUS ROG Strix Scope RX TKL Wireless Deluxe brezžična tipkovnica z ROG RX rdečimi mehanskimi stikali in magnetnim naslonom za zapestje. Tipkovnica ima na levi strani širšo tipko Ctrl. Tipke so izdelane iz PBT in se ponašajo z individualno RGB osvetlitvijo. Omogoča povezovanje preko Bluetooth, 2,4 GHz sprejemnika ali preko USB kabla. Gravura tipk je slovenska.",
+            "brand": "ASUS",
+            "price": "173.19",
+            "technicalSpecifications":{
+                "WiFi": "Da",
+                "Vzdržljivost": "60 milijon",
+                "Teža": "854g",
+                "Barva": "Grafitna",
+                "Razporeditev znakov": "UK - SLO gravura"
+                },
+            "img": "https://www.mimovrste.com/i/82239923/1000/1000"
+        },
+		{
+		    "articleID": 110,
+            "articleCategoryID": 17,
+            "title": "Evolveo WK29W",
+            "description": "EVOLVEO WK29W Tipkovnica Bluetooth, BT 3.0, bela Mini tipkovnica Bluetooth, zasnovana posebej za delo s tabličnimi računalniki Android, Mac OS ali Windows.",
+            "brand": "Evolveo",
+            "price": "25.90",
+            "technicalSpecifications":{
+                "WiFi": "Da",
+                "Vzdržljivost": "50 milijon",
+                "Teža": "420g",
+                "Barva": "Bela",
+                "Razporeditev znakov": "UK - SLO gravura"
+                },
+            "img": "https://www.mimovrste.com/i/91716132/1000/1000"
+        },
+		{
+		    "articleID": 111,
+            "articleCategoryID": 18,
+            "title": "Razer Basilisk X HyperSpeed",
+            "description": "Optična miška višjega razreda z dvojnim načinom. Povežite se prek Razer HyperSpeed Wireless ali tehnologije Bluetooth. Napredni optični senzor Razer 5G – 16 000 DPI. 450 IPS. 40G Dolga življenjska doba baterije 450 h v načinu Bluetooth pa do 285 h v HyperSpeed Wireless. 6 funkcionalna gumba.",
+            "brand": "Razer",
+            "price": "62.50",
+            "technicalSpecifications":{
+                "WiFi": "Da",
+                "Senzor": "Optični",
+                "Teža": "83g",
+                "Barva": "Črna",
+                "Občutljivost": "100 - 16000DPI"
+                },
+            "img": "https://www.mimovrste.com/i/45034194/1000/1000"
+        },
+		{
+		    "articleID": 112,
+            "articleCategoryID": 18,
+            "title": "Logitech G502 (Hero)",
+            "description": "G502 je kakovostna gaming miška, ki se lahko pohvali z natančnim Hero optičnim senzorjem s 16.000 DPI ločljivosti.",
+            "brand": "Logitech",
+            "price": "89.99",
+            "technicalSpecifications":{
+                "WiFi": "Ne",
+                "Senzor": "Optični",
+                "Teža": "70g",
+                "Barva": "Črna",
+                "Občutljivost": "100 - 16000DPI"
+                },
+            "img": "https://www.mimovrste.com/i/87776371/1000/1000"
+        },
+		{
+		    "articleID": 113,
+            "articleCategoryID": 18,
+            "title": "Genesis Xenon 200",
+            "description": "XENON 200 – IGRALNA MIŠICA Z RGB SVETLOBO MIŠICA, KI IZPOLNI VAŠA PRIČAKOVANJA Dobra igralna miška mora biti opremljena z vrhunskimi lastnostmi, kot so: večja vzdržljivost, funkcionalnost, udobje uporabe, …",
+            "brand": "Genesis",
+            "price": "25.30",
+            "technicalSpecifications":{
+                "WiFi": "Ne",
+                "Senzor": "Optični",
+                "Teža": "135g",
+                "Barva": "Črna",
+                "Občutljivost": "500 - 3200DPI"
+                },
+            "img": "https://www.mimovrste.com/i/91579444/1000/1000"
+        },
+		{
+		    "articleID": 114,
+            "articleCategoryID": 18,
+            "title": "Logitech MX Master 3s Performance",
+            "description": "Ergonomsko zasnovana brezžična miška s senzorjem z 8000 DPI.",
+            "brand": "Logitech",
+            "price": "129.99",
+            "technicalSpecifications":{
+                "WiFi": "Da",
+                "Senzor": "Laser",
+                "Teža": "141g",
+                "Barva": "Siva",
+                "Občutljivost": "100 - 8000DPI"
+                },
+            "img": "https://www.mimovrste.com/i/83633382/1000/1000"
+        },
+		{
+		    "articleID": 115,
+            "articleCategoryID": 18,
+            "title": "Logitech Signature M650",
+            "description": "Logitech Signature M650 je brezžična miška, ki omogoča povezavo prek tehnologije Bluetooth ali priloženega USB sprejemnika.",
+            "brand": "Logitech",
+            "price": "49.99",
+            "technicalSpecifications":{
+                "WiFi": "Da",
+                "Senzor": "Optični",
+                "Teža": "101.2g",
+                "Barva": "Bela",
+                "Občutljivost": "100 - 2000DPI"
+                },
+            "img": "https://www.mimovrste.com/i/76398961/1000/1000"
+        },
+		{
+		    "articleID": 116,
+            "articleCategoryID": 19,
+            "title": "Genesis Carbon 500 Ultra Wave",
+            "description": "Carbon 500 Ultra Wave ponuja dovolj prostora za tipkovnico, miško in še marsikateri dodatek.",
+            "brand": "Genesis",
+            "price": "22.99",
+            "technicalSpecifications":{
+                "Material": "tkanina,guma",
+                "Barva": "črna,siva",
+                "Dimenzija": "1110x450x2,5mm"
+                },
+            "img": "https://www.mimovrste.com/i/58607456/1000/1000"
+        },
+		{
+		    "articleID": 117,
+            "articleCategoryID": 19,
+            "title": "ASUS ROG Sheath",
+            "description": "ASUS ROG Sheath spada med izjemno velikanske podloge, ki so primerne za miške, tipkovnice in druge računalniške komponente.",
+            "brand": "ASUS",
+            "price": "30.74",
+            "technicalSpecifications":{
+                "Material": "tkanina,guma",
+                "Barva": "črna,rdeča",
+                "Dimenzija": "900x440x3mm"
+                },
+            "img": "https://www.mimovrste.com/i/42239675/1000/1000"
+        },
+		{
+		    "articleID": 118,
+            "articleCategoryID": 19,
+            "title": "Logitech G840 XL",
+            "description": "Logitech G840 XL je igralna podloga, ki je dovolj velika, da nanjo postavite tipkovnico in hkrati na njej uporabljate miško.",
+            "brand": "Logitech",
+            "price": "49.99",
+            "technicalSpecifications":{
+                "Material": "tkanina,guma",
+                "Barva": "modra",
+                "Dimenzija": "900x400x3mm"
+                },
+            "img": "https://www.mimovrste.com/i/73671838/1000/1000"
+        },
+		{
+		    "articleID": 119,
+            "articleCategoryID": 19,
+            "title": "Corsair MM350 Pro Extended XL",
+            "description": "Genesis Carbon 400 XXL je bela podloga za miško izdelana iz vrhunskih materialov. Podloga ima optimalno površino in dimenzije 800 × 300 mm, zahvaljujoč posebnemu tkanju vlaken pa zagotavlja hitro drsenje in odličen nadzor miške. Od zdaj naprej bo vaše igranje popeljala na še višjo raven!",
+            "brand": "Corsair",
+            "price": "11.92",
+            "technicalSpecifications":{
+                "Material": "tkanina,guma",
+                "Barva": "bela",
+                "Dimenzija": "800x300x3mm"
+                },
+            "img": "https://www.mimovrste.com/i/84098420/1000/1000"
+        },
+		{
+		    "articleID": 120,
+            "articleCategoryID": 19,
+            "title": "Marvo MG011",
+            "description": "Podloga za miško je primerna, če potrebujete več prostora za gladko in natančno drsenje miške. RGB osvetlitev bo poskrbela, da bo vaš igralni prostor še bolj živahen! Upravljanje na dotik omogoča hitro menjavo med 7 različnimi barvnimi učinki.",
+            "brand": "Marvo",
+            "price": "29.99",
+            "technicalSpecifications":{
+                "Material": "mehka(mikrovlakna)",
+                "Barva": "črna,rdeča",
+                "Dimenzija": "800x300x4mm"
+                },
+            "img": "https://www.mimovrste.com/i/101053070/1000/1000"
+        },
+		{
+			"articleID": 121,
+            "articleCategoryID": 20,
+            "title": "Verbatim Store 'n' Go",
+            "description": "Prenosni trdi disk Verbatim Store ‚n‘ Go ima visoko zmogljivo shranjevanje z uporabo vmesnika USB 3.0 „Super Speed\".",
+            "brand": "Verbatim",
+            "price": "56.70",
+            "technicalSpecifications":{
+                "Kapaciteta": "2TB",
+                "Vmesnik": "USB 3.0",
+                "Dimenzija": "119x81x20mm",
+				"Tip": "HDD",
+				"Barva": "črna"
+                },
+            "img": "https://www.mimovrste.com/i/20084330/1000/1000"
+        },
+		{
+			"articleID": 122,
+            "articleCategoryID": 20,
+            "title": "Toshiba Canvio Basics",
+            "description": "Zunanji prenosni trdi disk Canvio s kapaciteto 1 TB je odlična izbira za dodatno shrambo slik, filmov, glasbe itd. Deluje preko vmesnika USB 3.2 Gen 1.",
+            "brand": "Toshiba",
+            "price": "52.50",
+            "technicalSpecifications":{
+                "Kapaciteta": "1TB",
+                "Vmesnik": "USB 3.2",
+                "Dimenzija": "109x78x14mm",
+				"Tip": "HDD",
+				"Barva": "črna"
+                },
+            "img": "https://www.mimovrste.com/i/42404723/1000/1000"
+        },
+		{
+			"articleID": 123,
+            "articleCategoryID": 20,
+            "title": "SanDisk Extreme Portable V2",
+            "description": "Zunanji SSD disk SanDisk Extreme Portable V2 je odlična izbira za vse, ki ste veliko na poti. S kapaciteto 1000 GB, skoraj 2× hitrejšim prenosom podatkov od prejšnje generacije ter povečano odpornostjo na vodo in prah je SSD disk praktičen sopotnik, kjerkoli že ste.",
+            "brand": "SanDisk",
+            "price": "105.61",
+            "technicalSpecifications":{
+                "Kapaciteta": "1TB",
+                "Vmesnik": "USB 3.2",
+                "Dimenzija": "100x52x9mm",
+				"Tip": "SSD",
+				"Barva": "črna"
+                },
+            "img": "https://www.mimovrste.com/i/55659892/1000/1000"
+        },
+		{
+			"articleID": 124,
+            "articleCategoryID": 20,
+            "title": "Samsung T7 SSD",
+            "description": "Ultra hitri prenosni trdi disk Samsung T7 SSD ima veliko kapaciteto 1 T, hitrost prenosa do 1.050 MB/s (zapisovanje) in 1.000 MB/s (branje) ter vmesnik Hi-Speed ​​USB 3.2, skupaj s kablom USB v USB-C. Njegova konstrukcija je odporna na padce in udarce ter zanesljivo ščiti vaše podatke z šifriranjem strojne opreme.",
+            "brand": "Samsung",
+            "price": "105",
+            "technicalSpecifications":{
+                "Kapaciteta": "1TB",
+                "Vmesnik": "USB 3.2",
+                "Dimenzija": "85x57x8mm",
+				"Tip": "SSD",
+				"Barva": "modra"
+                },
+            "img": "https://www.mimovrste.com/i/47896303/1000/1000"
+        },
+		{
+			"articleID": 125,
+            "articleCategoryID": 20,
+            "title": "Samsung T7 Shield",
+            "description": "Zunanji SSD NVMe disk z odlično IP65 odpornostjo na prah in vodo.",
+            "brand": "Samsung",
+            "price": "125.50",
+            "technicalSpecifications":{
+                "Kapaciteta": "1TB",
+                "Vmesnik": "USB 3.2",
+                "Dimenzija": "88x59x13mm",
+				"Tip": "SSD",
+				"Barva": "siva"
+                },
+            "img": "https://www.mimovrste.com/i/81991748/1000/1000"
+        },
+		{
+			"articleID": 126,
+            "articleCategoryID": 21,
+            "title": "SanDisk USB ključek Cruzer Ultra FIT",
+            "description": "USB ključek Cruzer Ultra FIT s kapaciteto 64 GB in priklopom USB 3.1 je namenjen kot priročna dodatna shramba za podatke.",
+            "brand": "SanDisk",
+            "price": "10.47",
+            "technicalSpecifications":{
+                "Kapaciteta": "64GB",
+                "Vmesnik": "USB 3.1",
+                "Dimenzija": "19x16x9mm",
+				"Hitrost branja": "do 130MB/s"
+                },
+            "img": "https://www.mimovrste.com/i/41054054/1000/1000"
+        },
+		{
+			"articleID": 127,
+            "articleCategoryID": 21,
+            "title": "Kingston DataTraveler Exodia",
+            "description": "USB spominski ključ Kingston DataTraveler Exodia s kapaciteto 128 GB za hitro in enostavno prenašanje datotek.",
+            "brand": "Kingston",
+            "price": "7.98",
+            "technicalSpecifications":{
+                "Kapaciteta": "128GB",
+                "Vmesnik": "USB 3.2",
+                "Dimenzija": "67x21x10mm",
+				"Hitrost branja": "do 150MB/s"
+                },
+            "img": "https://www.mimovrste.com/i/51543763/1000/1000"
+        },
+		{
+			"articleID": 128,
+            "articleCategoryID": 21,
+            "title": "Silicon Power Blaze B30",
+            "description": "Blaze B30 USB ključ je vrhunski USB ključ s kapaciteto 128 GB.",
+            "brand": "Silicon Power",
+            "price": "7.99",
+            "technicalSpecifications":{
+                "Kapaciteta": "128GB",
+                "Vmesnik": "USB 3.2",
+                "Dimenzija": "53x18x10mm",
+				"Hitrost branja": "do 120MB/s"
+                },
+            "img": "https://www.mimovrste.com/i/84628190/1000/1000"
+        },
+		{
+			"articleID": 129,
+            "articleCategoryID": 21,
+            "title": "Samsung Bar Plus",
+            "description": "Sodobno oblikovan USB-A ključek kapacitete 64 GB, ki podpira USB 3.1 in omogoča hitrosti branja do 300 MB/s.",
+            "brand": "Samsung",
+            "price": "11.99",
+            "technicalSpecifications":{
+                "Kapaciteta": "64GB",
+                "Vmesnik": "USB 3.1",
+                "Dimenzija": "40x15x11mm",
+				"Hitrost branja": "do 300MB/s"
+                },
+            "img": "https://www.mimovrste.com/i/47986737/1000/1000"
+        },
+		{
+			"articleID": 130,
+            "articleCategoryID": 21,
+            "title": "Kingston DataTraveler Kyson",
+            "description": "Kovinski USB 3.2 ključ DataTraveler Kyson s kapaciteto 64 GB omogoča varno hrambo datotek in visoke hitrosti prenosa podatkov.",
+            "brand": "Kingston",
+            "price": "8",
+            "technicalSpecifications":{
+                "Kapaciteta": "64GB",
+                "Vmesnik": "USB 3.2",
+                "Dimenzija": "39x12x5mm",
+				"Hitrost branja": "do 200MB/s"
+                },
+            "img": "https://www.mimovrste.com/i/53057509/1000/1000"
+        },
+		{
+			"articleID": 131,
+            "articleCategoryID": 22,
+            "title": "Goobay HDMI kabel",
+            "description": "Kakovostno izdelan kabel HDMI Goobay je primeren za povezavo naprav s HDMI priključkom.",
+            "brand": "Goobay",
+            "price": "2.81",
+            "technicalSpecifications":{
+                "Dolžina kabla": "2m",
+                "Barva": "Črna",
+				"Priključek": "HDMI male(tip A)"
+                },
+            "img": "https://www.mimovrste.com/i/15610756/1000/1000"
+        },
+		{
+			"articleID": 132,
+            "articleCategoryID": 22,
+            "title": "Digitus kabel UTP CAT.6 patch",
+            "description": "UTP mrežni povezovalni kabel DigitusUTP CAT.6 patch ima 2 moška RJ45 konektorja. Prevodnik je izdelan iz 100% bakra, kabel pa je v PVC ovoju. Dolžina kabla je 50 cm. ",
+            "brand": "Digitus",
+            "price": "1.49",
+            "technicalSpecifications":{
+                "Dolžina kabla": "0,5m",
+                "Barva": "Siva",
+                "Kategorija": "UTP cat6",
+				"Priključek": "RJ45 male(4 x 2 AWG 26/7)"
+                },
+            "img": "https://www.mimovrste.com/i/42466510/1000/1000"
+        },
+		{
+			"articleID": 133,
+            "articleCategoryID": 22,
+            "title": "Inter-tech USB-C na USB-C kabel",
+            "description": "INTER-TECH Type-C na Type-C kabel dolžine enega metra. ",
+            "brand": "Inter-tech",
+            "price": "2.29",
+            "technicalSpecifications":{
+                "Dolžina kabla": "1m",
+                "Barva": "Črna",
+				"Priključek": "USB tip-C male"
+                },
+            "img": "https://www.mimovrste.com/i/44468617/1000/1000"
+        },
+		{
+			"articleID": 134,
+            "articleCategoryID": 22,
+            "title": "Port Designs napajalni kabel Type-C",
+            "description": "Kabel je namenjen polnjenju vaših naprav (pametnih telefonov in tabličnih računalnikov). Kompatibilen je z operacijskim sistemom Windows in iOS. ",
+            "brand": "Port Designs",
+            "price": "82.19",
+            "technicalSpecifications":{
+                "Tip": "napajalni kabel",
+                "Barva": "Črna",
+				"Teža": "350g",
+				"Dimenzija": "10x7.5x3cm"
+                },
+            "img": "https://www.mimovrste.com/i/50499388/1000/1000"
+        },
+		{
+			"articleID": 135,
+            "articleCategoryID": 22,
+            "title": "Trust polnilni kabel GXT 222 PS4 Duo Charge & Play Cable",
+            "description": "Polnilni kabel vam omogoča polnjenje do dve PS4 igralne konzole hkrati.",
+            "brand": "Trust",
+            "price": "14.50",
+            "technicalSpecifications":{
+                "Dolžina kabla": "3,5m",
+                "Barva": "Črna",
+				"Združljive konzole": "PS4"
+                },
+            "img": "https://www.mimovrste.com/i/51200414/1000/1000"
+        },
+		{
+			"articleID": 136,
+            "articleCategoryID": 23,
+            "title": "Logitech C920 HD PRO",
+            "description": "Visoko kakovostna HD spletna kamera, priznanega proizvajalca Logitech, ki vam omogoča zajemanje slike v Full HD ločljivosti s 1080p tehnologijo, vsekakor pa ne smemo pozabiti tudi na vgrajen mikrofon in funkcijo za zaznavanje obrazov ter fotografiranje s kar 15 megapiksli.",
+            "brand": "Logitech",
+            "price": "85.99",
+            "technicalSpecifications":{
+                "Mikrofon": "Da",
+                "Fokus": "Samodejno",
+				"Maksimalna ločljivost": "1080p/30 fps"
+                },
+            "img": "https://www.mimovrste.com/i/15907841/550/550"
+        },
+		{
+			"articleID": 137,
+            "articleCategoryID": 23,
+            "title": "Razer Kiyo Pro",
+            "description": "Profesionalna spletna kamera Razer Kiyo Pro poskrbi za konstantno čisto sliko. Zajema z ločljivostjo do 1080p pri 60 sličicah/s, odlikujejo pa jo tudi HDR, samodejno prilagajanje svetlobe, samodejno ostrenje, prilagodljivo stojalo in vgrajen mikrofon.",
+            "brand": "Razer",
+            "price": "159.99",
+            "technicalSpecifications":{
+                "Mikrofon": "Da",
+                "Fokus": "Samodejno",
+				"Maksimalna ločljivost": "1080p Full HD"
+                },
+            "img": "https://www.mimovrste.com/i/58587797/1000/1000"
+        },
+		{
+			"articleID": 138,
+            "articleCategoryID": 23,
+            "title": "ASUS Webcam C3",
+            "description": "Full HD spletna kamera, ki poskrbi za vrhunsko kakovost video prenosov, snemanj, predvajanj in video konferenc.",
+            "brand": "ASUS",
+            "price": "59",
+            "technicalSpecifications":{
+                "Mikrofon": "Da",
+                "Fokus": "Samodejno",
+				"Maksimalna ločljivost": "1080p Full HD"
+                },
+            "img": "https://www.mimovrste.com/i/54790975/1000/1000"
+        },
+		{
+			"articleID": 139,
+            "articleCategoryID": 23,
+            "title": "Microsoft LifeCam Studio",
+            "description": "HD kamera Microsoft LifeCam Studio vključuje HD 1080p senzor in poleg samodejnega ostrenja kamera ponudi tudi tehnologijo TrueColor in vgrajen mikrofon!",
+            "brand": "Microsoft",
+            "price": "72.69",
+            "technicalSpecifications":{
+                "Mikrofon": "Da",
+                "Fokus": "Samodejno",
+				"Maksimalna ločljivost": "1080p HD"
+                },
+            "img": "https://www.mimovrste.com/i/15671581/1000/1000"
+        },
+		{
+			"articleID": 140,
+            "articleCategoryID": 23,
+            "title": "Logitech StreamCam",
+            "description": "Logitech StreamCam spletna kamera prinaša izjemno čist Full HD video, dobro kakovost zvoka, avtomatsko ostrenje in osvetlitev. Povezava je preko USB-C kabla.",
+            "brand": "Logitech",
+            "price": "119",
+            "technicalSpecifications":{
+                "Mikrofon": "Da",
+                "Fokus": "Samodejno",
+				"Maksimalna ločljivost": "1080p Full HD"
+                },
+            "img": "https://www.mimovrste.com/i/47542889/1000/1000"
+        },
+		{
+			"articleID": 141,
+            "articleCategoryID": 24,
+            "title": "Sony PlayStation 5",
+            "description": "Igralna konzola PlayStation 5 (C šasija) prinaša osupljivo zmogljivost za igranje videoiger. Opremljena je z visoko zmogljivim 8-jedrni, procesorjem AMD Zen 2, bliskovito hitrim SSD pogonom kapacitete 825 GB in optičnim pogonom 4K UHD Blu-ray. Ne manjka niti podpora za igranje v ločljivosti 4K in podpora Ray-tracing za realno upodabljanje svetlobe in svetlobnih žarkov.",
+            "brand": "Sony",
+            "price": "545.99",
+            "technicalSpecifications":{
+                "Procesor": "AMD Zen 2 (3,5 GHz, 8 jeder)",
+                "Grafična kartica": "AMD Navi (2,23 GHz, 10,28 TFLOPS)",
+				"Sistemski pomnilnik (RAM)": "16 GB GDDR6",
+				"Shranjevanje": "SSD 825 GB",
+				"Diskovni pogon": "4K UHD Blu-ray pogon"
+                },
+            "img": "https://www.mimovrste.com/i/90610957/1000/1000"
+        },
+		{
+			"articleID": 142,
+            "articleCategoryID": 24,
+            "title": "Sony Playstation 4 Slim",
+            "description": "Igralna konzola Sony Playstation PS4 Slim s trdim diskom kapacitete 500 GB.",
+            "brand": "Sony",
+            "price": "299.49",
+            "technicalSpecifications":{
+                "Procesor": "x86–64 AMD „Jaguar“, 8-jedr",
+                "Grafična kartica": "1.84 TFLOPS, AMD Radeon™",
+				"Sistemski pomnilnik (RAM)": "8GB hitrega GDDR5",
+				"Shranjevanje": "500 GB HDD",
+				"Dimenzija": "265×39×288 mm"
+                },
+            "img": "https://www.mimovrste.com/i/42580698/1000/1000"
+        },
+		{
+			"articleID": 143,
+            "articleCategoryID": 24,
+            "title": "Microsoft Xbox Series S",
+            "description": "Igralna konzola Xbox Series S razveseli z 8-jedrnim procesorjem AMD Zen 2 in izjemno hitrim SSD diskom s kapaciteto 512 GB. Ne manjka niti podpora igranja v QHD do 120 FPS in Ray-tracing za realistično upodabljanje svetlobe in svetlobnih žarkov. Prednost je dovršen sistem za upscalling na 4K.",
+            "brand": "Microsoft",
+            "price": "309.90",
+            "technicalSpecifications":{
+                "Procesor": "AMD Zen 2 (3,6 GHz, 8 jeder)",
+                "Grafična kartica": "RDNA 2 AMD (4 TFLOPS)",
+				"Sistemski pomnilnik (RAM)": "10 GB GDDR6",
+				"Shranjevanje": "512 GB SSD",
+				"Diskovni pogon": "4K UHD Blu-ray pogon"
+                },
+            "img": "https://www.mimovrste.com/i/51231440/1000/1000"
+        },
+		{
+			"articleID": 144,
+            "articleCategoryID": 24,
+            "title": "Nintendo Switch OLED",
+			"description":"Prenosna igralna konzola Nintendo Switch OLED s snemljivimi krmilniki Joy-Con, ki omogočajo enostavno igranje v načinu za več igralcev z drugim igralcem. Konzola ima osupljivo lep 7-palčni zaslon OLED, ki je tako popolnoma svetel, da boste presenečeni! Ima široko nastavljivo in praktično stojalo, ki ga lahko nastavite v 3 položaje, režo za pomnilniško kartico, LAN za povezljivost, 64 GB notranjega pomnilnika in izboljšan zvok zaradi vgrajenih zvočnikov. Z enim polnjenjem zdrži dolgo časa. ",
+            "brand": "Nintendo",
+            "price": "380.29",
+            "technicalSpecifications":{
+                "Procesor": "NVIDIA Custom Tegra processor",
+                "Grafična kartica": "NVIDIA Custom Tegra processor",
+				"Video izhod": "Do 1080p preko HDMI",
+				"Shranjevanje": "64 GB",
+				"Zvočniki": "Stereo"
+                },
+            "img": "https://www.mimovrste.com/i/68798743/1000/1000"
+        },
+		{
+			"articleID": 145,
+            "articleCategoryID": 24,
+            "title": "gamertag igralna konzola H1-B",
+			"description":"Retro igralna konzola z več kot 400 legendarnimi igrami na enem mestu! Retro klasične igre, kot je Super Mario Bros, vam omogočajo, da ponovno doživite zabavo iz otroštva in doživetje delite z mlajšimi generacijami. Retro igralno konzolo gameboy lahko podarite vašim staršem, prijateljem in otrokom.",
+            "brand": "gamertag",
+            "price": "19.90",
+            "technicalSpecifications":{
+                "Material": "ABS plastika",
+                "Število iger": "400",
+				"Dimenzija": "12x8cm",
+				"Barva": "rdeča"
+                },
+            "img": "https://www.mimovrste.com/i/78425809/1000/1000"
+        },
+		{
+			"articleID": 146,
+            "articleCategoryID": 25,
+            "title": "Assetto Corsa: Ultimate Edition (PS4)",
+			"description":"Video simulacijska igra za PS4 v kateri lahko dirkaš tako kot želiš.",
+            "brand": "505 Gamestreet",
+            "price": "17.90",
+            "technicalSpecifications":{
+                "Platforma": "Playstation 4",
+                "Vrsta igre": "dirkalna",
+				"Minimalna starost": "od 3. leta naprej"
+                },
+            "img": "https://www.mimovrste.com/i/41149010/1000/1000"
+        },
+		{
+			"articleID": 147,
+            "articleCategoryID": 25,
+            "title": "Fast & Furious Crossroads igra (Xbox One)",
+			"description":"Razburljiva dirkalna igra Fast & Furious Crossroads je namenjena igranju na konzoli Xbox One.",
+            "brand": "Bandai Namco",
+            "price": "25",
+            "technicalSpecifications":{
+                "Platforma": "Xbox One",
+                "Vrsta igre": "dirkalna",
+				"Minimalna starost": "od 16. leta naprej"
+                },
+            "img": "https://www.mimovrste.com/i/52007159/1000/1000"
+        },
+		{
+			"articleID": 148,
+            "articleCategoryID": 25,
+            "title": "Sega Olympic Games Tokyo 2020 - The Official",
+			"description":"Uradna igra poletnih olimpijskih iger Olympic Games Tokyo 2020 je primerna za Xbox One in Xbox Series X.",
+            "brand": "SEGA",
+            "price": "35.90",
+            "technicalSpecifications":{
+                "Platforma": "Xbox One in Xbox Series X",
+                "Vrsta igre": "športna",
+				"Minimalna starost": "od 12. leta naprej"
+                },
+            "img": "https://www.mimovrste.com/i/59379668/1000/1000"
+        },
+		{
+			"articleID": 149,
+            "articleCategoryID": 25,
+            "title": "Take 2 Borderlands 3 Ultimate Edition",
+			"description":"Borderlands 3 je akcijska prvoosebna strelska video igra, ki so jo razvili pri Gearbox Software in objavili 2K Games. Je nadaljevanje Borderlands 2 iz leta 2012 in četrti prispevek v glavni seriji Borderlands.",
+            "brand": "2K",
+            "price": "37.69",
+            "technicalSpecifications":{
+                "Platforma": "PlayStation 4 in PlayStation 5",
+                "Vrsta igre": "akcijska, first-person, RPG",
+				"Minimalna starost": "od 18. leta naprej"
+                },
+            "img": "https://www.mimovrste.com/i/75156238/1000/1000"
+        },
+		{
+			"articleID": 150,
+            "articleCategoryID": 25,
+            "title": "CD PROJEKT The Witcher 3 Complete Edition",
+			"description":"Vi ste Geralt iz Rivije, ubijalec pošasti. Pred vami stoji od vojne razdejana celina, polna pošasti, ki jo lahko raziskujete po mili volji. Vaša trenutna pogodba? Iskanje Ciri — otroka prerokbe, ki lahko spremeni svet. Popolna izdaja vsebuje osnovno igro, ki ponuja ogromno, več kot 100 ur dolgo pustolovščino odprtega sveta, kot tudi obe veliki razširitvi zgodbe: Hearts of Stone & Blood and Wine, dodatnih 50 ur igranja! Popolna izdaja zajema tudi vso dodatno vsebino, izdano za igro, poleg novih predmetov, vključno z meči, oklepi in alternativnimi oblekami, ki jih je navdihnila serija The Witcher Netflix — in še več!",
+            "brand": "CD Projekt",
+            "price": "37.69",
+            "technicalSpecifications":{
+                "Platforma": "PlayStation 5",
+                "Vrsta igre": "RPG, akcija",
+				"Minimalna starost": "od 18. leta naprej"
+                },
+            "img": "https://www.mimovrste.com/i/96586924/1000/1000"
+        },
+        {
+            "articleID": 151,
+            "articleCategoryID": 17,
+            "title": "Ducky One 3 Classic SF MX Blue Switch",
+			"description":"Predstavljamo vam novo Ducky One 3 serijo mehanskih tipkovnic. One 3 je narejena po slovesu predhodnika One 2 s popolnoma novim mehanskim dizajnom QUACK Mechanics. Računalništvo igra veliko vlogo v našem vsakdanu zato je zelo pomembno, da so naprave katere uporabljamo kar se da v harmoniji z našim telesom. Q-Bounce Pad pri temu igra veliko vlogo zaradi vrhunske zasnove ter skrbno premišljeno več stopenjsko postavitvijo tipk, da lahko brez bolečin v rokah ali zapestju več ur tipkate ali igrate igre.",
+            "brand": "Ducky",
+            "price": "159.90",
+            "technicalSpecifications":{
+                "Mehanska tipkovnica": "Da",
+                "Vrsta stikal ": "MX Blue",
+				"Osvetlitev tipk": "Da",
+                "Razporeditev znakov": "US international"
+                },
+            "img": "https://www.mlacom.si/iimg/126011/560x373/i.jpg"
+        },
+        {
+            "articleID": 152,
+            "articleCategoryID": 6,
+            "title": "KINGSTON FURY Renegade 4TB",
+			"description":"Kingston FURY™ Renegade PCIe 4.0 NVMe M.2 SSD zagotavlja vrhunsko zmogljivost z visoko zmogljivostjo za ljubitelje iger in strojne opreme, ki iščejo izjemno zmogljivost za sestave in nadgradnje osebnih računalnikov. Z uporabo najnovejšega krmilnika Gen 4x4 NVMe in 3D TLC NAND Kingston FURY Renegade SSD ponuja neverjetne hitrosti do 7.300/7.000 MB/s1 branja/pisanja in do 1.000.000 IOPS1 za neverjetno doslednost in izjemno igralno izkušnjo. Od časa nalaganja iger in aplikacij do pretakanja in zajemanja, povečajte splošno odzivnost vašega sistema.",
+            "brand": "KINGSTON",
+            "price": "414.85",
+            "technicalSpecifications":{
+                "Kapaciteta": "4 TB",
+                "Format": "M.2",
+				"Vmesnik ": "M.2 NVMe 4.0"
+                },
+            "img": "https://www.mlacom.si/iimg/113391/560x325/i.jpg"
+        },
+        {
+            "articleID": 153,
+            "articleCategoryID": 8,
+            "title": "NVIDIA RTX 6000 ADA",
+			"description":"Grafična kartica primerna za profesionalno uporabo. 48GB GDDR6 pomnilnika z ECC. Primerna za velike grafične in vizualizacijske projekte, foto realistične renderje ter AR/MR/VR/XR okolja.",
+            "brand": "NVIDIA",
+            "price": "10176.37",
+            "technicalSpecifications":{
+                "Grafični procesor": "NVIDIA Quadro/RTX Professional",
+                "Velikost pomnilnika": "48 GB",
+				"Vrsta hladilnika": "Aktivni zračni"
+                },
+            "img": "https://www.mlacom.si/iimg/133667/400x400/i.jpg"
+        },
+        {
+            "articleID": 154,
+            "articleCategoryID": 12,
+            "title": "NOCTUA NH-D15",
+			"description":"Noctua NH-D15; Hladilnik je opremljen s 6 toplotnimi cevmi in dvema 150 mm velikima ventilatorjema z nadzorom PWM.",
+            "brand": "NOCTUA",
+            "price": "133.80",
+            "technicalSpecifications":{
+                "Hitrost ventilatorja": " 300–1500 vrtljajev na minuto.",
+                "Raven hrupa": "največ 24,6 dB",
+				"Pretok zraka": "največ 82,52 CFM"
+                },
+            "img": "https://www.mimovrste.com/i/93124784/1000/1000"
+        },
+        {
+            "articleID": 155,
+            "articleCategoryID": 10,
+            "title": "FRACTAL DESIGN North Charcoal",
+			"description":"Fractal North osveži igralni računalnik z naravnimi materiali in po meri izdelanimi podrobnostmi, da bi igranje iger postalo eleganten dodatek k bivalnemu prostoru. Ohišje, ki združuje oblikovanje in inženiring pretoka zraka, ima zračenje z drobnimi mrežicami in odprto sprednjo stran s ploščami iz pravega orehovega ali hrastovega lesa. Zasnovo dopolnjujejo elegantne medeninaste ali jeklene podrobnosti in integriran jeziček za enostaven dostop do zgornjega dela ohišja. V notranjosti North ponuja intuitivno notranjo razporeditev in bogato združljivost.",
+            "brand": "FRACTAL",
+            "price": "159.51",
+            "technicalSpecifications":{
+                "Format osnovne plošče": "ATX, Micro-ATX, Mini-ITX",
+                "Format napajalnika": "ATX",
+				"Sprejme hladilnike do višine": "170 mm"
+                },
+            "img": "https://www.mlacom.si/iimg/122096/304x400/i.jpg"
+        }
+
+    ],
+    "blog":[
+        {
+            "blogID": 1,
+            "date": "20.02.2023",
+            "title": "Kaj nam bodo prinesle grafične kartice Nvidia GeFroce RTX 5000?",
+            "content": "Nvidia je že pred časom ponudila v prodajo novo družino grafičnih kartic za ljubitelje računalniških iger – GeForce RTX 4000. Najzahtevnejšim ljubiteljem računalniških iger bo na kožo pisana GeForce RTX 4090. Novost temelji na osnovi grafičnega jedra Nvidia GA102 in ima za preračunavanje podatkov na voljo 16.128 CUDA jeder. Za shranjevanje vmesnih izračunov je na voljo 24 gigabajtov grafičnega pomnilnika GDDR6X propustnosti 21 gigabitov na sekundo. Grafično jedro in pomnilnik sta povezana preko hitrega 384-bitnega vodila. A kot vse kaže bodo grafične kartice naslednje generacije še precej zmogljivejše. Grafične kartice Nvidia GeFroce RTX 5000 naj bi bile namreč med dvakrat in 2,6-krat zmogljivejše v primerjavi z grafičnimi karticami družine GeForce RTX 4000. Zasluge za to bo šlo pripisati predvsem novemu proizvodnemu proces. Poleg tega bo tu uporabljena 3-nanometrska tehnologija podjetja TSMC. K večji zmogljivosti grafičnih kartic Nvidia GeFroce RTX 5000 bo nedvomno pripomogel tudi grafični pomnilnik GDDR7. Ta naj bi podatke preračunaval s frekvenco večjo od treh gigahercev. Za povezovanje z osebnim računalnikom pa bodo nove grafične kartice seveda opremljene s podatkovnim vodilom PCIe Gen 5. Več informacij o novih grafičnih karticah Nvidia GeFroce RTX 5000 pa naj bi bilo znanih kmalu.",
+            "img": "https://racunalniske-novice.com/wp-content/uploads/2023/03/dgagsafsafsf-1-1.jpg"
+        },
+        {
+            "blogID": 2,
+            "date": "11.12.2022",
+            "title": "Sabrent z nadvse hitrim pogonom SSD PCI-E 5.0",
+            "content": "Pri podjetju Sabrent so predstavili pogon Solid State, ki je opremljen z vmesnikom PCI Express 5.0. Gre za novo generacijo podatkovnega vmesnika, ki ga bodo podpirali tako procesorji Intel kot AMD nove generacije. Novi pogon Solid State podjetja Samsung temelji na krmilniku računalniškega giganta Phison in uporablja napredne pomnilniške elemente V-NAND TLC. Sabrent Rocket X5 je opremljen z vmesnikom SSD M.2 in trenutno velja za enega najzmogljivejših pogonov Solid State na trgu. Ta lahko tako v sekvenčnem branju kot zapisovanju podatkov doseže hitrost do 12.000 megabajtov na sekundo. Klasični pogoni Solid State z vmesnikom PCI Express 5.0 pa so trenutno omejeni na »zgolj« 10.000 megabajtov na sekundo sekvenčnega branja in zapisovanja. Čeprav pogon Rocket X5 dosega izjemne hitrosti zapisa in branja, so pri podjetju Sabrent prepričani, da lahko v bližnji prihodnosti še dodatno izboljšajo njegovo zmogljivost. Končen cilj je namreč doseči sekvenčno branje in zapisovanje podatkov s hitrostjo do 14.000 megabajtov na sekundo. Hiter pogon Rocket X5 naj bi podjetje Sabrent ponudilo v prodajo najkasneje do konca letošnje pomladi. Cena seveda ne bo nizka.",
+            "img": "https://racunalniske-novice.com/wp-content/uploads/2023/03/1TB_5000x-1024x1024.jpg"
+        },
+        {
+            "blogID": 3,
+            "date": "24.04.2023",
+            "title": "Neverjeten hladilni sistem Noctua za zmogljive procesorje Intel",
+            "content": "Zračni hladilni sistemi za procesorje so vedno predstavljali svojevrsten izziv za raziskovalce, saj ti zanje namreč že več desetletij poskušajo najti optimalen način za hlajenje. Medtem ko številni proizvajalci hladilnih sistemov stavijo na zmogljive in pogosto preglasne ventilatorje, so inženirji podjetja Noctura ubrali povsem drugo pot. Tu so namreč pripravili edinstven hladilni sistem, ki je izjemno zmogljiv, a pri tem proizvede malo neželenega hrupa. Posebnost hladilnega sistema Noctua NH-U14S DX-4677 je v njegovi zmogljivosti. Ta lahko namreč odstranjuje odvečno toploto, ki jo proizvajajo procesorji Intel do električne moči 700 vatov. To pomeni, da lahko novost brez večjih težav hladi tudi Intelov najnovejši procesor Xeon W9-3495X. Ta namreč podatke preračunava s 56 procesorskimi sredicami, pri polni obremenitvi pa lahko porabi tudi do 700 vatov električne moči. Zračno hlajeni hladilni sistem Noctua NH-U14S DX-4677 je izdelan iz kombinacije aluminija in bakra. Novost meri kar 165 x 150 x 111 milimetrov in tehta 1,14 kilogramov. Poleg tega je ta opremljena še z dvema zmogljivima ventilatorjema NF-A15 HS-PWM, ki pri polni obremenitvi proizvedeta do 24,6 decibelov hrupa. Zračno hlajeni hladilni sistem Noctua NH-U14S DX-4677 ima kar šestletno garancijo, zato nam bo zagotovo služil dolgo.",
+            "img": "https://racunalniske-novice.com/wp-content/uploads/2023/04/nh_u14s_dx_4677_1_1-815x1024.jpg"
+        },
+        {
+            "blogID": 4,
+            "date": "29.03.2023",
+            "title": "Vrhunska Asus GeForce RTX 4080 Noctua Edition na voljo že za..",
+            "content": "Nedavno smo poročali o nadvse inovativni grafični kartici Asus GeForce RTX 4080 Noctua Edition. Ta dejansko za hlajenje grafičnega procesorja uporablja kar dva 12-centimetrska ventilatorja Noctua NF-A12x25. Zato ne preseneča, da novost zaseda več kot štiri enote v računalniškem ohišju (306,2 x 144,8 x 82,6 milimetrov). Po drugi strani pa je nova grafična kartica pri delovanju zelo tiha. Ta namreč lahko pri polni obremenitvi proizvede več kot štiri decibele hrupa manj od klasičnih sistemov. Hkrati pa grafično jedro kartice Asus GeForce RTX 4080 deluje pri nekoliko nižji temperaturi, kar posledično pomeni več prikazanih slik na sekundo pri igranju grafično najzahtevnejših iger. Tiha grafična kartica Asus GeForce RTX 4080 Noctua Edition bo seveda primerna tudi za najzahtevnejše igre. Ta naj bi namreč imela za preračunavanje grafičnih vsebin na voljo kar 9.728 grafičnih jeder. Opremljena bo še s 16 gigabajti grafičnega pomnilnika GDDR6X hitrosti 22,5 gigabitov na sekundo. Grafična kartica Asus GeForce RTX 4080 Noctua Edition naj bi pri polni obremenitvi porabila do 320 vatov električne moči. Grafična kartica Asus GeForce RTX 4080 Noctua Edition je končno na voljo za nakup. Trenutno je to mogoče kupiti na azijskih trgih, kmalu pa naj bi zašla še na druge trge širom sveta. Novost je pričakovano draga. Maloprodajna cena grafične kartice Asus GeForce RTX 4080 Noctua Edition je namreč postavljena na kar preračunanih 1.460 evrov.",
+            "img": "https://racunalniske-novice.com/wp-content/uploads/2023/03/kv-2-1024x740-1.jpg"
+        },
+        {
+            "blogID": 5,
+            "date": "14.01.2023",
+            "title": "Samsung kmalu s superzmogljivim procesorjem za mobilne naprave?",
+            "content": "Podjetje Apple že dlje časa ponuja svoje lastne procesorje družine M. Ker je procesor Apple M1 bil nadvse priljubljen, je računalniški gigant sredi lanskega leta predstavilo povsem novi lastni mobilni procesor z oznako M2. A kot vse kaže bo kmalu podobno pot ubralo tudi podjetje Samsung. Ker podjetje Samsung z mobilnimi procesorji Exynos ni imelo veliko sreče, naj bi namreč pripravljajo povsem novi napredni mobilni procesor. Ta bo namenjen tako za pametne mobilne telefone kot osebne računalnike. Tu gre za enako strategijo, kot jo trenutno ima konkurenčno podjetje Apple. Ker ima podjetje Samsung namen razviti povsem novi procesor, bo njegov razvoj seveda trajal kar nekaj časa. Poznavalci so prepričani, da ta po vsej verjetnosti ne bo nared pred letom 2025. Novi procesor podjetja Samsung bo temeljil na osnovi procesorskih jeder ARM. Lastna procesorska jedra pa naj bi podjetje Samsung pripravilo najkasneje do leta 2027 če bo šlo vse po sreči.",
+            "img": "https://racunalniske-novice.com/wp-content/uploads/2023/03/board-ga5f33573f_1920-1024x683.jpg"
+        },
+        {
+            "blogID": 6,
+            "date": "09.02.2023",
+            "title": "Trenutno najboljši procesor za igranje iger je..",
+            "content": "Grafične kartice so ključnega pomena za kakovostno izkušnjo pri igranju računalniških iger. K temu veliko seveda pripomore tudi procesor. Zato ne preseneča, da je podjetje AMD ljubitelje iger že pred časom razveselilo z najavo procesorjev družine Ryzen 7000 3D V-Cache. Najnovejši procesorji so namreč prinesli precejšnje izboljšave predvsem na področju igranja računalniških iger. Vstopni model Ryzen 7 7800X3D je opremljen z osmimi fizičnimi procesorskimi jedri in razpolaga s kar 104 megabajti predpomnilnika. Frekvenca preračunavanja podatkov znaša do pet gigahercev, pri polni obremenitvi pa zmogljivi procesor porabil do 120 vatov električne moči. Ravno ta model pa se je izkazal za najboljšo izbiro za igranje iger, saj nudi optimalno razmerje med močjo in ceno. Procesor AMD Ryzen 7 7800X3D je pri igranju iger po zmogljivosti primerljiv s precej dražjim procesorjem Intel Core i9-13900K/KS. Kljub temu pa procesor podjetja AMD porabi manj kot polovico električne energije. To je tudi razlog, zakaj je procesor AMD Ryzen 7 7800X3D trenutno najboljša izbira za tiste, ki obožujejo računalniške igre in niso pripravljeni na kompromise. Računalniški zanesenjak s psevdonimom SkatterBencher pa je pred časom za nameček dokazal, da je procesor Ryzen 7 7800X3D tudi odličen za navijanje. Zanesenjaku je namreč uspelo procesor naviti na kar 5.403 megaherce v enojedrnem načinu delovanja in na 4.950 megahercev pri uporabi vseh jeder. S tem je dejansko dosegel 10,7 odstotno pohitritev v enojedrnem načinu delovanja in 7,7 odstotno pohitritev v večjedrnem načinu delovanja. Pri tem velja omeniti, da računalniški zanesenjak ni uporabil nobenega naprednega načina hlajenja. Izjemno pohitritev delovanja je namreč dosegel zgolj z modifikacijo nastavitev.",
+            "img": "https://racunalniske-novice.com/wp-content/uploads/2023/04/1728141-amd-ryzen-3d-vcache-7-right-1260x709-1.webp"
+        },
+        {
+            "blogID": 7,
+            "date": "12.03.2023",
+            "title": "Koliko bo treba odšteti za grafično kartico Nvidia RTX 4060 Ti?",
+            "content": "Nedavno smo poročali o velikem uspehu nadvse zanimive grafične kartice Nvidia GeForce RTX 4070 Ti za osebne računalnike. Povpraševanje po novosti je namreč preseglo vsa pričakovanja. To sicer ne preseneča, saj je grafična kartica GeForce RTX 4070 Ti namenjena najzahtevnejšim ljubiteljem računalniških iger, a ni najdražja različica nove družine. Ta je v Združenih državah Amerike naprodaj za preračunanih 540 evrov. Kmalu pa bo za osebne računalnike na voljo še grafična kartica Nvidia GeForce RTX 4060 Ti. Ta bo seveda manj zmogljiva v primerjavi z modelom GeForce RTX 4070 Ti, a naj bi se brez težav kosala z grafično kartico GeFroce RTX 3070. Poleg tega bo nova GeForce RTX 4060 Ti relativno varčna z električno energijo. Pri polni obremenitvi bo namreč porabila le 160 vatov električne moči. Grafična kartica Nvidia GeForce RTX 4060 Ti naj bi bila naprodaj v teku meseca maja, njena maloprodajna cena pa naj bi se gibala okoli 411 evrov. To je zgolj preračunanih 46 evrov več kot grafična kartica prejšnje generacije GeForce RTX 3060 Ti. Grafična kartica GeForce RTX 4060 Ti bo razpolagala z grafičnim jedrom z oznako AD106-350-A1, ki bo imelo za preračunavanje podatkov na voljo 4.352 CUDA jeder. To je kar 14,080 CUDA jeder manj v primerjavi z modelom GeForce RTX 4090 Ti. Za shranjevanje vmesnih podatkov bo na voljo osem gigabajtov grafičnega pomnilnika GDDR6 hitrosti 18 gigabajtov na sekundo. Grafično jedro in grafični pomnilnik pa bosta povezana preko 128-bitnega vodila. To bo dovolj za igranje tudi grafično zahtevnejših računalniških iger.",
+            "img": "https://racunalniske-novice.com/wp-content/uploads/2023/04/fsfasfasfsaf3-2.jpg"
+        },
+        {
+            "blogID": 8,
+            "date": "13.04.2023",
+            "title": "Vse več govora o Nvidia GeFroce RTX 5000",
+            "content": "Nvidia je že pred časom ponudila v prodajo novo družino grafičnih kartic za ljubitelje računalniških iger – GeForce RTX 4000. Najzahtevnejšim ljubiteljem računalniških iger je na kožo pisana GeForce RTX 4090. Novost temelji na osnovi grafičnega jedra Nvidia GA102 in ima za preračunavanje podatkov na voljo 16.128 CUDA jeder. Za shranjevanje vmesnih izračunov je na voljo 24 gigabajtov grafičnega pomnilnika GDDR6X propustnosti 21 gigabitov na sekundo. Grafično jedro in pomnilnik sta povezana preko hitrega 384-bitnega vodila.\nA kot vse kaže bodo grafične kartice naslednje generacije še precej zmogljivejše. Grafične kartice Nvidia GeFroce RTX 5000 naj bi bile namreč med dvakrat in 2,6-krat zmogljivejše v primerjavi z grafičnimi karticami družine GeForce RTX 4000. Zasluge za to bo šlo pripisati predvsem novemu proizvodnemu procesu. Poleg tega bodo pri proizvodnji uporabljali 3-nanometrska tehnologija podjetja TSMC.\nK večji zmogljivosti grafičnih kartic Nvidia GeFroce RTX 5000 bo nedvomno pripomogel tudi grafični pomnilnik GDDR7. Ta naj bi podatke preračunaval s frekvenco, večjo od treh gigahercev. Za povezovanje z osebnim računalnikom bodo nove grafične kartice seveda opremljene s podatkovnim vodilom PCIe Gen 5.",
+            "img": "https://racunalniske-novice.com/wp-content/uploads/2023/03/dgagsafsafsf-1-1.jpg"
+        },
+        {
+            "blogID": 9,
+            "date": "07.03.2023",
+            "title": "Prvi računalniški zaslon impresivne frekvence 500 hercev!",
+            "content": "Podjetje Dell je na nedavnem računalniškem sejmu CES 2023 predstavilo nadvse zanimiv računalniški zaslon Alienware AW2524H. Novost se bo v prvi vrsti prikupila najzahtevnejšim ljubiteljem računalniških iger, kajti gre za prvi zaslon Alienware, ki lahko slike izrisuje sliko s frekvenco do 500 sličic na sekundo. Novost je končno na voljo za prodajo, in sicer na izbranih trgih.\nRačunalniški zaslon AlienWare AW2524H privzeto osvežuje sliko s frekvenco 480 sličic na sekundo. Z navijanjem pa lahko doseže opevanih 500 sličic na sekundo. Povsem razumljivo je, da se sprašujete, ali bo razlika zares opazna. Hitrost je nedvomno impresivna, vendar že 240 hercih ali 360 hercih zasloni so za 99,9 % uporabnikov nepotrebni. Strokovno mnenje bomo prepustili naprednim zanesenjakom, ki bodo pripravljeni kupiti povsem novo tehnologijo in jo namesto nas testirati.\nRačunalniški zaslon AlienWare AW2524H se ponaša še z 62,2-centimetrsko oziroma 24,5-palčno diagonalo in ločljivostjo 1.920 x 1.080 slikovnih točk. Odzivni čas je komajda 0,5 milisekunde. Inovativni računalniški zaslon AlienWare AW2524H se ponaša še s certifikatom VESA DisplayHDR 400 (99 odstotkov). To pomeni, da lahko prikazuje zelo natančne barvne odtenke. Za priklop zunanjih računalniških sistemov pa sta na voljo video priključka DisplayPort 1.4 in dva HDMI 2.1.\nVrhunski računalniški zaslon AlienWare AW2524H seveda ni poceni. Zanj je namreč treba na ameriškem trgu odšteti kar preračunanih 780 evrov. Ko bo vrhunski zaslon AlienWare AW2524H naprodaj še na evropskih tleh, pa bo njegova maloprodajna cena še nekoliko višja.",
+            "img": "https://racunalniske-novice.com/wp-content/uploads/2023/03/fqfwqfwqfqwfq.jpg"
+        },
+        {
+            "blogID": 10,
+            "date": "11.01.2023",
+            "title": "Samsung predstavil nove monitorje Odyssey, ViewFinity in Smart Monitor",
+            "content": "Družba Samsung Electronics je predstavila nove modele monitorjev, s čimer krepi svojo vodilno vlogo na področju vizualnih zaslonov za uporabnike.\nNa sejmu CES 2023 so bile predstavljene novosti v linijah Odyssey, ViewFinity in Smart Monitor, ki zagotavljajo izjemno kakovost slike in vrsto inovativnih funkcij za tiste, ki želijo delati, se igrati in jim kakovosten monitor pomeni veliko.\nSamsung s predstavitvijo monitorja Odyssey Neo G9, prvega monitorja na svetu z dvojno ultra visoko ločljivostjo, revolucionarno spreminja kategorijo ultra širokih zaslonov. Ta inovacija je dokaz vodilnega položaja, ki ga ima Samsung v panogi pri zagotavljanju najbolj poglobljene in realistične igralne izkušnje, ki je na voljo na trgu.\n“Z monitorjem Odyssey Neo G9 predstavljamo prihodnost igralnih monitorjev, ki z inovativnimi funkcijami in kakovostjo slike na novi ravni omogočajo, da je vsaka igra še bolj realistična.,” je povedal Hoon Chung, izvršni podpredsednik Visual Display Business pri Samsung Electronics. “CES je pravo mesto za predstavitev naših inovacij, ki lahko ne le igralce, temveč tudi grafične oblikovalce ali ljubitelje televizije popeljejo na naslednjo raven izkušnje, hkrati pa zagotavljajo prilagojene možnosti v številnih integriranih pametnih aplikacijah.”",
+            "img": "https://racunalniske-novice.com/wp-content/uploads/2023/01/CES-Monitor-Lineup_PR_dl1_2023-Monitor-Full-lineups.jpg"
+        },
+        {
+            "blogID": 11,
+            "date": "04.01.2023",
+            "title": "Samsung predstavil novo linijo zaslonov Neo QLED, MICRO LED in Samsung OLED",
+            "content": "Družba Samsung Electronics je pred sejmom CES 2023 predstavila nove linije zaslonov Neo QLED, MICRO LED in Samsung OLED ter izdelke in dodatke za prilagajanje življenjskemu slogu. Letošnja ponudba vsebuje napredne in inovativne izdelke, ki se osredotočajo na izboljšano povezljivost in prilagojene izkušnje potrošnikov.\nŠiroka paleta ponudbe Samsung pomaga uporabnikom ustvariti prilagojene izkušnje z napravami, ki jih uporabljajo vsak dan, z bolj intuitivno tehnologijo kot kdajkoli prej. Samsung je letos naredil še korak naprej na svoji nenehno razvijajoči se poti k poenostavitvi vsakdanjega življenja potrošnikov z brezhibno integracijo več naprav v celotnem ekosistemu platforme za pametne domove SmartThings.\n“V letu 2023 premikamo meje inovacij, da bi potrošnikom ponudili več kot le vrhunsko kakovost slike. Želimo jih navdušiti s celostno izkušnjo z vrhunsko napravo, prilagojeno temu, kar potrebujejo in želijo od svojega povezanega doma,” je dejal Cheolgi Kim, izvršni podpredsednik za področje Visual Display Business pri družbi Samsung Electronics. “S SmartThings je naša napredna tehnologija brezhibna in intuitivna, zaradi česar je življenje vsak dan bolj trajnostno, dostopno in prijetno.”",
+            "img": "https://racunalniske-novice.com/wp-content/uploads/2023/01/Samsung_New_Screens_dl4-1024x768.jpg"
+        },{
+            "blogID": 12,
+            "date": "20.12.2022 ",
+            "title": "Corsair presenetil z vrhunskim zaslonom, ki ga lahko ročno upognemo!",
+            "content": "Upogljivi oziroma prepogljivi pametni mobilni telefoni so med uporabniki mobilne telefonije vzbudili veliko mero zanimanja. Zato ne preseneča, da se za njimi vse bolj spogledujejo tudi izdelovalci zaslonov za igranje iger, ki so namenjeni osebnim računalnikom. Eno izmed podjetji, ki se je opogumilo na tem področju, pa je podjetje Crosair. To je namreč pripravilo vrhunski računalniški zaslon, ki ga je mogoče uporabljati tako v ravnem, kot tudi v ukrivljenem načinu.\nPodjetje Crosair je inovativno tehnologijo vgradilo v zaslon Xeneon 45WQHD240. Novost je pričakovano opremljena z zaslonsko matriko s 45-palčno oziroma 114-centimetrsko diagonalo in razmerjem stranic 21 proti 9. Frekvenca osveževanja novosti znaša kar 240 hercev. To v praksi pomeni, da bo zaslon Crosair Xeneon 45WQHD240 kot nalašč tako za ljubitelje najzahtevnejših računalniških iger kot za ljubitelje večpredstavnostnih vsebin in resnega grafičnega dela.\nZaslon Crosair Xeneon 45WQHD240 seveda v polni meri podpira grafični tehnologiji G-Sync in FreeSync Premium Pro. Poleg tega se lahko pobaha še s tehnologijo proti »vžgani« sliki. Čeprav je prepogivanje zaslona ročno, to mnogim uporabnikom zagotovo ne bo povzročalo težav. Cena zaslona Crosair Xeneon 45WQHD240 pričakovano ni nizka. Za nakup novosti bo namreč treba odšteti kar preračunanih 2.399 evrov. Upajmo le, da se bo cena tovrstnih zaslonov s časom znižala.",
+            "img": "https://racunalniske-novice.com/wp-content/uploads/2022/12/CM-9030001-NA-Gallery-XENEON-FLEX-01-1024x1024.jpg"
+        },
+        {
+            "blogID": 13,
+            "date": "23.04.2023",
+            "title": "Zanimiva miniaturna računalnika s procesorjem AMD Ryzen 7",
+            "content": "Podjetje GMK nas je tokrat prijetno presenetilo z dvema nadvse zanimivima kompaktnima namiznima računalnikoma s prodajno oznako NucBox K1 in NucBox K2. Ta bosta navdušila predvsem tiste, ki pri delu prisegajo na zmogljive računalnike kompaktne oblike in obožujejo večpredstavnostne vsebine. Poleg tega je primeren za tiste, ki obožujejo tišino. Novinca sta namreč pri delovanju praktično neslišna.\nKljučna razlika med kompaktnima namiznima računalnikoma NucBox K1 in NucBox K2 je v procesorju. Medtem ko je model NucBox K1 opremljen s procesorjem AMD Ryzen 7 6800H, se model NucBox K2 ponaša z zmogljivejšim modelom Ryzen 7 7735HS. Oba procesorja razpolagata z vgrajeno grafično kartico AMD Radeon 680M. To v praksi pomeni, da bosta novinca kos tako igram kot večpredstavnostnim vsebinam.\nMiniaturna računalnika GMK NucBox K1 in NucBox K2 lahko opremimo še z do 64 gigabajti sistemskega pomnilnika DDR5-4800 in pogonom Solid State z do dvema terabajtoma prostora za shranjevanje podatkov. Tu lahko še dodamo ene pogon Solid State z 2,5-palčnim ohišjem. NA voljo je sicer bogata paleta priključkov. Vse skupaj pa novica merita zgolj 122 x 112 x 43 milimetrov, zato bosta zlahka našla mesto na naši pisalni mizi.\nZanimiva kompaktna računalnika GMK NucBox K1 in NucBox K2 sta že naprodaj. Vstopna različica modela GMK NucBox K1 (brez sistemskega pomnilnika in pogona Solid State) je v tujini vrednotena na preračunanih 450 evrov. Model NucBox K2 pa trgovci vrednotijo na preračunanih 485 evrov. Tako namizni računalnik NucBox K1 kot NucBox K2 lahko kupimo z vsem kar potrebujemo za takojšen pričetek dela in za zabavo.",
+            "img": "https://racunalniske-novice.com/wp-content/uploads/2023/04/GMK_NuxBox_K2-1024x1024.webp"
+        },
+        {
+            "blogID": 14,
+            "date": "24.04.2023",
+            "title": "Bo Surface Pro 10 na voljo tudi v manjši izvedbi?",
+            "content": "Oktobra lani je Microsoft predstavil novo generacijo hibrida med tabličnim in prenosnim računalnikom – Surface Pro 9. Novost ponuja vse, kar potrebujejo najzahtevnejši uporabniki na terenu. Tablični oziroma prenosni računalnik Surface Pro 9 namreč temelji na osnovi procesorjev Intel 12. generacije. Preostala strojna oprema Surface Pro 9 obsega še do 32 gigabajtov sistemskega pomnilnika in pogon Solid State kapacitete enega terabajta. Tu je na voljo tudi različica s procesorjem ARM, ki ponuja povezavo v mobilna omrežja 5G. Ta je na voljo s sistemskim pomnilnikom kapacitete osem gigabajtov oziroma 16 gigabajtov in z do 512 gigabajtov prostora za shranjevanje podatkov. Piko na i pa tablici/prenosniku daje zaslon s 33-centimetrsko oziroma 13-palčno diagonalo frekvence 120 hercev in ločljivostjo 2.880 x 1.920 slikovnih točk.\nČeprav je Surface Pro 9 še vedno kos tudi najzahtevnejšim nalogam, bo podjetje Microsoft kmalu predstavilo njegovega naslednika. Tu seveda govorimo o novi generaciji hibrida med tabličnim in prenosnim računalnikom – Surface Pro 10. Ta naj bi bil na volijo tako z zaslonom s 33-centimetrsko oziroma 13-palčno diagonalo kot tudi s 27,9-centimetrsko oziroma 11-palčno diagonalo. Oba zaslona se bosta ponašala tako z visoko ločljivostjo kot frekvenco osveževanja 120 sličic na sekundo.\nTrenutno žal se ni znano, s katerimi procesorji bo novi Surface Pro 10 na voljo. Skoraj zagotovo pa bo šlo za zmogljivejše, kot so na voljo za aktualni model. Več o prenosnem računalniku Surface Pro 10 bo znanega v prihodnjih nekaj tednih. Se pa že sedaj govori, da naj bi se novost postavila po robu priljubljenim računalnikom iPad Pro 11 in iPad Pro 12.9 konkurenčnega podjetja Apple, ki so priljubljeni predvsem med zahtevnejšimi uporabniki.",
+            "img": "https://racunalniske-novice.com/wp-content/uploads/2023/04/csm_Surface_Pro_8_HL_Powerful_VP5_1920x1080_f90b8842a5-1024x593.jpg"
+        },
+        {
+            "blogID": 15,
+            "date": "24.04.2023",
+            "title": "Vrhunski prenosnik Acer s kar 16-palčnim zaslonom",
+            "content": "Podjetje Acer premore pestro linijo prenosnikov, pri kateri lahko različni profili uporabnikov najdejo pravega zase. Njihov najnovejši prenosnik Acer Swift X 16 je opremljen s kar 16-palčnim oziroma 40,6-centimetrskim zaslonom OLED, vseeno pa v debelino meri zgolj 17,9 milimetra. Kljub velikosti novi prenosnik tehta zgolj 1,9 kilograma. Zato bo novost prišla še kako prav tudi uporabnikom v zahtevnih poslovnih okoljih.\nPrenosnik Acer Swift X 16 je opremljen z zaslonom OLED ločljivosti 3.2K s frekvenco osveževanja 60 hercev. Za preračunavanje podatkov skrbi procesor AMD Ryzen 9 7940H, grafičnim vsebinam pa je kos vgrajeno grafično jedro Radeon 780M (RDNA3). Z njim lahko zato igramo tudi sodobne igre v ločljivosti 1.080p. Zahtevnejšim uporabnikom pa bosta na voljo samostojni grafični kartici GeForce RTX 3050 oziroma GeForce RTX 4050.\nV prenosnem računalniku Acer Swift X 16 najdemo še do 32 gigabajtov sistemskega pomnilnika LPDDR5 in do enega terabajta prostora za shranjevanje. Napolnjena baterija novosti vsaj na papirju zadošča za do deset ur avtonomije delovanja. Celoto zaključuje operacijski sistem Windows 11. Vstopna različica novosti je vrednotena na okoli1.600 evrov.",
+            "img": "https://racunalniske-novice.com/wp-content/uploads/2023/04/Swift_X_Otter_main_large-4-1024x666.jpg"
+        }
+    ]
+}
